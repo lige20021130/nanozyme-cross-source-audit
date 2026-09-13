@@ -1,0 +1,1723 @@
+{
+  "overall": {
+    "precision": 0.9226,
+    "recall": 0.9716,
+    "f1": 0.9464,
+    "accuracy": 0.8983,
+    "macro_f1": 0.9426,
+    "em": 0.233,
+    "dver": 0.4328,
+    "f1_ci95": [
+      0.8847,
+      0.976
+    ]
+  },
+  "field_level": {
+    "nanozyme": {
+      "p": 0.8544,
+      "r": 1.0,
+      "f1": 0.9215,
+      "accuracy": 0.8544
+    },
+    "mimic_enzyme_activity": {
+      "p": 1.0,
+      "r": 1.0,
+      "f1": 1.0,
+      "accuracy": 1.0
+    },
+    "doped_N": {
+      "p": 0.9806,
+      "r": 1.0,
+      "f1": 0.9902,
+      "accuracy": 0.9806
+    },
+    "doped_P": {
+      "p": 1.0,
+      "r": 1.0,
+      "f1": 1.0,
+      "accuracy": 1.0
+    },
+    "doped_S": {
+      "p": 1.0,
+      "r": 1.0,
+      "f1": 1.0,
+      "accuracy": 1.0
+    },
+    "doped_B": {
+      "p": 1.0,
+      "r": 1.0,
+      "f1": 1.0,
+      "accuracy": 1.0
+    },
+    "doped_F": {
+      "p": 1.0,
+      "r": 1.0,
+      "f1": 1.0,
+      "accuracy": 1.0
+    },
+    "metal_type": {
+      "p": 0.9029,
+      "r": 1.0,
+      "f1": 0.949,
+      "accuracy": 0.9029
+    },
+    "metal_ratio": {
+      "p": 0.8415,
+      "r": 0.9324,
+      "f1": 0.8846,
+      "accuracy": 0.7931
+    },
+    "metal_valence": {
+      "p": 0.8211,
+      "r": 1.0,
+      "f1": 0.9017,
+      "accuracy": 0.8211
+    },
+    "shape": {
+      "p": 0.84,
+      "r": 0.9655,
+      "f1": 0.8984,
+      "accuracy": 0.8155
+    },
+    "size_nm": {
+      "p": 0.7952,
+      "r": 0.8684,
+      "f1": 0.8302,
+      "accuracy": 0.7097
+    },
+    "dispersion_medium": {
+      "p": 0.9109,
+      "r": 0.9892,
+      "f1": 0.9485,
+      "accuracy": 0.902
+    },
+    "buffer_ph_value": {
+      "p": 0.9688,
+      "r": 0.9394,
+      "f1": 0.9538,
+      "accuracy": 0.9118
+    },
+    "temperature_c": {
+      "p": 0.8265,
+      "r": 0.9643,
+      "f1": 0.8901,
+      "accuracy": 0.802
+    },
+    "Km_mM": {
+      "p": 0.9794,
+      "r": 0.9406,
+      "f1": 0.9596,
+      "accuracy": 0.9223
+    },
+    "Vmax_uM_s_minus1": {
+      "p": 0.9111,
+      "r": 0.8817,
+      "f1": 0.8962,
+      "accuracy": 0.8119
+    }
+  },
+  "error_cases": [
+    {
+      "doi": "10.1016/j.colsurfa.2018.05.034",
+      "field": "nanozyme",
+      "gold": "Fe-Pt Alloys",
+      "system": "ChEO15-coated Fe-Pt alloy NPs",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1016/j.snb.2017.05.069",
+      "field": "size_nm",
+      "gold": 6.5,
+      "system": 5.0,
+      "type": "field_mismatch",
+      "deviation_pct": 23.08,
+      "subtype": "small_error"
+    },
+    {
+      "doi": "10.1016/j.snb.2017.05.069",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 0.00048,
+      "system": 0.005486,
+      "type": "field_mismatch",
+      "deviation_pct": 1042.92,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1021/jacs.0c07273",
+      "field": "size_nm",
+      "gold": 500.0,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1021/jacs.0c07273",
+      "field": "temperature_c",
+      "gold": 25,
+      "system": 80.0,
+      "type": "field_mismatch",
+      "deviation_pct": 220.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1021/jacs.0c07273",
+      "field": "shape",
+      "gold": "nanoparticle",
+      "system": "sphere",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1021/jacs.0c07273",
+      "field": "size_nm",
+      "gold": 330.0,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1021/jacs.0c07273",
+      "field": "temperature_c",
+      "gold": 25,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1021/jacs.0c07273",
+      "field": "size_nm",
+      "gold": 4.0,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1021/jacs.0c07273",
+      "field": "temperature_c",
+      "gold": 25,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1016/j.talanta.2013.01.032",
+      "field": "shape",
+      "gold": "rectangular",
+      "system": "nanoparticle",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1002/chem.201803040",
+      "field": "temperature_c",
+      "gold": 25,
+      "system": 55.0,
+      "type": "field_mismatch",
+      "deviation_pct": 120.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1021/la3046077",
+      "field": "dispersion_medium",
+      "gold": "PBS",
+      "system": "water",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1021/la3046077",
+      "field": "buffer_ph_value",
+      "gold": 8.4,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1016/j.aca.2020.06.009",
+      "field": "metal_type",
+      "gold": 79,
+      "system": 78,
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1016/j.aca.2020.06.009",
+      "field": "metal_ratio",
+      "gold": 50.0,
+      "system": 76.01,
+      "type": "field_mismatch",
+      "deviation_pct": 52.02,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1016/j.aca.2020.06.009",
+      "field": "shape",
+      "gold": " sphere",
+      "system": "core-shell",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1016/j.aca.2020.06.009",
+      "field": "temperature_c",
+      "gold": 25,
+      "system": 37.0,
+      "type": "field_mismatch",
+      "deviation_pct": 48.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1038/nnano.2007.260",
+      "field": "metal_valence",
+      "gold": 2.0,
+      "system": 3,
+      "type": "field_mismatch",
+      "deviation_pct": 50.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1038/nnano.2007.260",
+      "field": "size_nm",
+      "gold": 30.0,
+      "system": 300.0,
+      "type": "field_mismatch",
+      "deviation_pct": 900.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1002/adfm.201801484",
+      "field": "nanozyme",
+      "gold": "Pd@Pt core–frame nanodendrities",
+      "system": "Pd@Pt core-frame nanodendrites",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1002/adfm.201801484",
+      "field": "size_nm",
+      "gold": 22.0,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1002/adfm.201801484",
+      "field": "metal_ratio",
+      "gold": 100.0,
+      "system": 86.09,
+      "type": "field_mismatch",
+      "deviation_pct": 13.91,
+      "subtype": "small_error"
+    },
+    {
+      "doi": "10.1002/adfm.201801484",
+      "field": "size_nm",
+      "gold": 22.0,
+      "system": 30.0,
+      "type": "field_mismatch",
+      "deviation_pct": 36.36,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1021/acsami.8b16786",
+      "field": "nanozyme",
+      "gold": "CuSe",
+      "system": "Cu2-xSedc",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1021/acsami.8b16786",
+      "field": "metal_valence",
+      "gold": 1.0,
+      "system": 2,
+      "type": "field_mismatch",
+      "deviation_pct": 100.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1021/acsami.8b16786",
+      "field": "metal_valence",
+      "gold": 1.0,
+      "system": 2,
+      "type": "field_mismatch",
+      "deviation_pct": 100.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1016/j.snb.2016.07.106",
+      "field": "metal_valence",
+      "gold": 0.0,
+      "system": 1,
+      "type": "field_mismatch",
+      "deviation_pct": 100000000000.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1016/j.snb.2016.07.106",
+      "field": "metal_valence",
+      "gold": 0.0,
+      "system": 1,
+      "type": "field_mismatch",
+      "deviation_pct": 100000000000.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1016/j.snb.2016.07.106",
+      "field": "metal_valence",
+      "gold": 0.0,
+      "system": 2,
+      "type": "field_mismatch",
+      "deviation_pct": 200000000000.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1016/j.bioorg.2018.07.020",
+      "field": "metal_valence",
+      "gold": 0.0,
+      "system": 2,
+      "type": "field_mismatch",
+      "deviation_pct": 200000000000.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1016/j.bioorg.2018.07.020",
+      "field": "shape",
+      "gold": "nanoparticle",
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1016/j.bioorg.2018.07.020",
+      "field": "dispersion_medium",
+      "gold": "Tris-HCl",
+      "system": "phosphate buffer",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1016/j.bioorg.2018.07.020",
+      "field": "temperature_c",
+      "gold": 27,
+      "system": 20.0,
+      "type": "field_mismatch",
+      "deviation_pct": 25.93,
+      "subtype": "small_error"
+    },
+    {
+      "doi": "10.1016/j.bioorg.2018.07.020",
+      "field": "metal_valence",
+      "gold": 0.0,
+      "system": 2,
+      "type": "field_mismatch",
+      "deviation_pct": 200000000000.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1016/j.bioorg.2018.07.020",
+      "field": "shape",
+      "gold": "nanoparticle",
+      "system": "sphere",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1016/j.bioorg.2018.07.020",
+      "field": "dispersion_medium",
+      "gold": "Tris-HCl",
+      "system": "phosphate buffer",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1016/j.bioorg.2018.07.020",
+      "field": "temperature_c",
+      "gold": 27,
+      "system": 20.0,
+      "type": "field_mismatch",
+      "deviation_pct": 25.93,
+      "subtype": "small_error"
+    },
+    {
+      "doi": "10.1016/j.talanta.2018.01.080",
+      "field": "Km_mM",
+      "gold": 0.36,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1016/j.talanta.2018.01.080",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 0.158,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1016/j.talanta.2017.08.107",
+      "field": "Km_mM",
+      "gold": 0.129,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1016/j.talanta.2017.08.107",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 0.0111,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1039/c4nr03393k",
+      "field": "size_nm",
+      "gold": 100.0,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1039/c4nr03393k",
+      "field": "dispersion_medium",
+      "gold": "Tris–HCl buffer",
+      "system": "Tris-HCl",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1016/j.aca.2012.11.056",
+      "field": "nanozyme",
+      "gold": "BSA-Cu-NCs",
+      "system": "Cu NCs",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1016/j.aca.2012.11.056",
+      "field": "doped_N",
+      "gold": 1,
+      "system": 0,
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1016/j.aca.2012.11.056",
+      "field": "shape",
+      "gold": " sphere",
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1016/j.aca.2012.11.056",
+      "field": "dispersion_medium",
+      "gold": "phosphate buffer",
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1016/j.aca.2012.11.056",
+      "field": "buffer_ph_value",
+      "gold": 6.0,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1016/j.aca.2012.11.056",
+      "field": "temperature_c",
+      "gold": 30,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1016/j.aca.2012.11.056",
+      "field": "Km_mM",
+      "gold": 0.648,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1016/j.aca.2012.11.056",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 0.0596,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1021/am300408r",
+      "field": "shape",
+      "gold": "nanorod",
+      "system": "needle-like",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1021/am300408r",
+      "field": "size_nm",
+      "gold": 150.0,
+      "system": 200.0,
+      "type": "field_mismatch",
+      "deviation_pct": 33.33,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1039/c3nr06533b",
+      "field": "size_nm",
+      "gold": 1500.0,
+      "system": 1000.0,
+      "type": "field_mismatch",
+      "deviation_pct": 33.33,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1039/c3cc41569d",
+      "field": "metal_valence",
+      "gold": 0.0,
+      "system": 3,
+      "type": "field_mismatch",
+      "deviation_pct": 300000000000.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1039/c3cc41569d",
+      "field": "metal_valence",
+      "gold": 0.0,
+      "system": 3,
+      "type": "field_mismatch",
+      "deviation_pct": 300000000000.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1039/c3cc41569d",
+      "field": "size_nm",
+      "gold": 12.8,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1039/c3cc41569d",
+      "field": "metal_valence",
+      "gold": 0.0,
+      "system": 2,
+      "type": "field_mismatch",
+      "deviation_pct": 200000000000.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1039/c3cc41569d",
+      "field": "size_nm",
+      "gold": 12.8,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1039/c2nr12109c",
+      "field": "size_nm",
+      "gold": 8.0,
+      "system": 7.0,
+      "type": "field_mismatch",
+      "deviation_pct": 12.5,
+      "subtype": "small_error"
+    },
+    {
+      "doi": "10.1021/acsami.9b07866",
+      "field": "metal_type",
+      "gold": 44,
+      "system": 42,
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1021/acsami.9b07866",
+      "field": "metal_ratio",
+      "gold": 75.75,
+      "system": 100.0,
+      "type": "field_mismatch",
+      "deviation_pct": 32.01,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1021/acsami.9b07866",
+      "field": "metal_valence",
+      "gold": 0.0,
+      "system": 4,
+      "type": "field_mismatch",
+      "deviation_pct": 400000000000.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1021/acsami.9b07866",
+      "field": "shape",
+      "gold": "sphere",
+      "system": "pompon-like",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1002/adma.201203218",
+      "field": "metal_ratio",
+      "gold": 62.33,
+      "system": 93.53,
+      "type": "field_mismatch",
+      "deviation_pct": 50.06,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1002/adma.201203218",
+      "field": "size_nm",
+      "gold": 35.0,
+      "system": 12.0,
+      "type": "field_mismatch",
+      "deviation_pct": 65.71,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1002/adma.201203218",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 0.0936,
+      "system": 93.6,
+      "type": "field_mismatch",
+      "deviation_pct": 99900.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1002/adma.201203218",
+      "field": "metal_ratio",
+      "gold": 62.33,
+      "system": 100.0,
+      "type": "field_mismatch",
+      "deviation_pct": 60.44,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1002/adma.201203218",
+      "field": "size_nm",
+      "gold": 6.0,
+      "system": 10.0,
+      "type": "field_mismatch",
+      "deviation_pct": 66.67,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1002/adma.201203218",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 0.0444,
+      "system": 34.6,
+      "type": "field_mismatch",
+      "deviation_pct": 77827.93,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1002/adma.201203218",
+      "field": "metal_type",
+      "gold": 78,
+      "system": 46,
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1002/adma.201203218",
+      "field": "metal_ratio",
+      "gold": 64.65,
+      "system": 52.0,
+      "type": "field_mismatch",
+      "deviation_pct": 19.57,
+      "subtype": "small_error"
+    },
+    {
+      "doi": "10.1002/adma.201203218",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 0.0256,
+      "system": 25.6,
+      "type": "field_mismatch",
+      "deviation_pct": 99900.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1002/adma.201203218",
+      "field": "metal_ratio",
+      "gold": 66.7,
+      "system": 100.0,
+      "type": "field_mismatch",
+      "deviation_pct": 49.93,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1002/adma.201203218",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 0.0346,
+      "system": 34.6,
+      "type": "field_mismatch",
+      "deviation_pct": 99900.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1016/j.snb.2014.04.067",
+      "field": "shape",
+      "gold": "nanoparticle",
+      "system": "sphere",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1016/j.snb.2014.04.067",
+      "field": "metal_ratio",
+      "gold": 84.87,
+      "system": 75.4,
+      "type": "field_mismatch",
+      "deviation_pct": 11.16,
+      "subtype": "small_error"
+    },
+    {
+      "doi": "10.1016/j.snb.2014.04.067",
+      "field": "shape",
+      "gold": "nanoparticle",
+      "system": "sphere",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1021/acsami.8b20942",
+      "field": "metal_ratio",
+      "gold": 66.7,
+      "system": 100.0,
+      "type": "field_mismatch",
+      "deviation_pct": 49.93,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1021/acsami.8b20942",
+      "field": "size_nm",
+      "gold": 6.3,
+      "system": 17.0,
+      "type": "field_mismatch",
+      "deviation_pct": 169.84,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1021/acsami.8b20942",
+      "field": "temperature_c",
+      "gold": "r.t",
+      "system": 25.0,
+      "type": "field_mismatch",
+      "subtype": "wrong_type"
+    },
+    {
+      "doi": "10.1021/acsami.8b20942",
+      "field": "metal_ratio",
+      "gold": 66.7,
+      "system": 100.0,
+      "type": "field_mismatch",
+      "deviation_pct": 49.93,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1021/acsami.8b20942",
+      "field": "size_nm",
+      "gold": 6.3,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1021/acsami.8b20942",
+      "field": "temperature_c",
+      "gold": "r.t",
+      "system": 25.0,
+      "type": "field_mismatch",
+      "subtype": "wrong_type"
+    },
+    {
+      "doi": "10.1039/c1cy00124h",
+      "field": "nanozyme",
+      "gold": "a-Fe2O3",
+      "system": "α-Fe2O3 hexagonal prism",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1021/acsami.6b15124",
+      "field": "shape",
+      "gold": "nanoparticle",
+      "system": "nanosheet",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1016/j.bios.2011.02.014",
+      "field": "buffer_ph_value",
+      "gold": 3.5,
+      "system": 3.0,
+      "type": "field_mismatch",
+      "deviation_pct": 14.29,
+      "subtype": "small_error"
+    },
+    {
+      "doi": "10.1002/anie.201903427",
+      "field": "nanozyme",
+      "gold": "solvothermal CeVO4",
+      "system": "CeVO4 (Cs)",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1002/anie.201903427",
+      "field": "metal_type",
+      "gold": 23,
+      "system": 58,
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1002/anie.201903427",
+      "field": "metal_valence",
+      "gold": 5.0,
+      "system": 4,
+      "type": "field_mismatch",
+      "deviation_pct": 20.0,
+      "subtype": "small_error"
+    },
+    {
+      "doi": "10.1002/anie.201903427",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 0.3548,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1002/anie.201903427",
+      "field": "nanozyme",
+      "gold": "sonochemical CeVO4",
+      "system": "CeVO4 (Csc)",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1002/anie.201903427",
+      "field": "metal_type",
+      "gold": 23,
+      "system": 58,
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1002/anie.201903427",
+      "field": "metal_valence",
+      "gold": 5.0,
+      "system": 4,
+      "type": "field_mismatch",
+      "deviation_pct": 20.0,
+      "subtype": "small_error"
+    },
+    {
+      "doi": "10.1002/anie.201903427",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 0.2513,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1002/anie.201903427",
+      "field": "nanozyme",
+      "gold": "hydrothermal CeVO4",
+      "system": "CeVO4 (Ch)",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1002/anie.201903427",
+      "field": "metal_type",
+      "gold": 23,
+      "system": 58,
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1002/anie.201903427",
+      "field": "metal_valence",
+      "gold": 5.0,
+      "system": 4,
+      "type": "field_mismatch",
+      "deviation_pct": 20.0,
+      "subtype": "small_error"
+    },
+    {
+      "doi": "10.1002/anie.201903427",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 0.2322,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1016/j.aca.2015.02.027",
+      "field": "doped_N",
+      "gold": 1,
+      "system": 0,
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1039/c2nr33072e",
+      "field": "nanozyme",
+      "gold": "gold@platinum nanorods",
+      "system": "Au@Pt nanorods",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1039/c2nr33072e",
+      "field": "metal_type",
+      "gold": 79,
+      "system": 78,
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1039/c2nr33072e",
+      "field": "Km_mM",
+      "gold": 1.84e-05,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1007/s10853-014-8422-x",
+      "field": "nanozyme",
+      "gold": "Au NPs",
+      "system": "s-AuNP",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1016/j.aca.2013.03.034",
+      "field": "nanozyme",
+      "gold": "Pt NPs",
+      "system": "ISPtNP",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1016/j.aca.2013.03.034",
+      "field": "temperature_c",
+      "gold": 40,
+      "system": 25.0,
+      "type": "field_mismatch",
+      "deviation_pct": 37.5,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1016/j.aca.2013.03.034",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 1.26,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1002/adma.201405105",
+      "field": "shape",
+      "gold": " sphere",
+      "system": "bean-like",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1002/adma.201405105",
+      "field": "Km_mM",
+      "gold": 0.0411,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1002/adma.201405105",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 0.1266,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1039/c7ra10370k",
+      "field": "shape",
+      "gold": "nanoparticle",
+      "system": "sphere",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1039/c7ra10370k",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 0.0825,
+      "system": 82.5,
+      "type": "field_mismatch",
+      "deviation_pct": 99900.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1039/c0cc04850j",
+      "field": "nanozyme",
+      "gold": "K5PV2Mo10O40",
+      "system": "PMV-FA",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1039/c0cc04850j",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 8.0,
+      "system": 4700.0,
+      "type": "field_mismatch",
+      "deviation_pct": 58650.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1039/c2cc32833j",
+      "field": "metal_ratio",
+      "gold": 59.46,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1039/c2cc32833j",
+      "field": "dispersion_medium",
+      "gold": "Tris-borate buffer",
+      "system": "Tris-borate",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1039/c2cc32833j",
+      "field": "metal_ratio",
+      "gold": 59.46,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1039/c2cc32833j",
+      "field": "dispersion_medium",
+      "gold": "Tris-borate buffer",
+      "system": "Tris-borate",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1039/c2nr31716h",
+      "field": "dispersion_medium",
+      "gold": "Tris-borate buffer",
+      "system": "Tris-borate",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1039/c2nr31716h",
+      "field": "Km_mM",
+      "gold": 0.113,
+      "system": 113.0,
+      "type": "field_mismatch",
+      "deviation_pct": 99900.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1002/anie.201105121",
+      "field": "nanozyme",
+      "gold": "bare AuNPs",
+      "system": "AuNPs",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1002/anie.201105121",
+      "field": "buffer_ph_value",
+      "gold": 7.0,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1002/anie.201105121",
+      "field": "temperature_c",
+      "gold": 25,
+      "system": 34.0,
+      "type": "field_mismatch",
+      "deviation_pct": 36.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1002/anie.201105121",
+      "field": "buffer_ph_value",
+      "gold": 7.0,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1002/anie.201105121",
+      "field": "temperature_c",
+      "gold": 25,
+      "system": 34.0,
+      "type": "field_mismatch",
+      "deviation_pct": 36.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1002/anie.201105121",
+      "field": "buffer_ph_value",
+      "gold": 7.0,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1002/anie.201105121",
+      "field": "temperature_c",
+      "gold": 25,
+      "system": 34.0,
+      "type": "field_mismatch",
+      "deviation_pct": 36.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1021/acsomega.9b03252",
+      "field": "dispersion_medium",
+      "gold": "PBS",
+      "system": "water",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1021/acsomega.9b03252",
+      "field": "buffer_ph_value",
+      "gold": 7.4,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1021/acsomega.9b03252",
+      "field": "Km_mM",
+      "gold": 0.163,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1021/acsomega.9b03252",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 1.331,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1039/c2jm34354a",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 815.0,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1039/c2jm34354a",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 1380.0,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1021/acssuschemeng.0c00249",
+      "field": "shape",
+      "gold": "nanorod",
+      "system": "nanotube",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1021/acssuschemeng.0c00249",
+      "field": "size_nm",
+      "gold": 325.0,
+      "system": 200.0,
+      "type": "field_mismatch",
+      "deviation_pct": 38.46,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1021/acsami.7b18690",
+      "field": "buffer_ph_value",
+      "gold": 7.0,
+      "system": 3.0,
+      "type": "field_mismatch",
+      "deviation_pct": 57.14,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1021/acsami.7b18690",
+      "field": "temperature_c",
+      "gold": 25,
+      "system": 50.0,
+      "type": "field_mismatch",
+      "deviation_pct": 100.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1002/chem.201801010",
+      "field": "nanozyme",
+      "gold": "Fe3+-Doped Mesoporous Carbon Nanospheres",
+      "system": "Fe3+-MCNs",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1016/j.jcis.2018.12.093",
+      "field": "size_nm",
+      "gold": 3.1,
+      "system": 5.0,
+      "type": "field_mismatch",
+      "deviation_pct": 61.29,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1016/j.jcis.2018.12.093",
+      "field": "temperature_c",
+      "gold": 25,
+      "system": 80.0,
+      "type": "field_mismatch",
+      "deviation_pct": 220.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1039/c7ra06973a",
+      "field": "metal_ratio",
+      "gold": 77.71,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1039/c7ra06973a",
+      "field": "shape",
+      "gold": "nanoflower",
+      "system": "nanostar",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1039/c7ra06973a",
+      "field": "size_nm",
+      "gold": 100.0,
+      "system": 50.0,
+      "type": "field_mismatch",
+      "deviation_pct": 50.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1039/c7ra06973a",
+      "field": "temperature_c",
+      "gold": 25,
+      "system": 37.0,
+      "type": "field_mismatch",
+      "deviation_pct": 48.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1039/c7ra06973a",
+      "field": "metal_ratio",
+      "gold": 77.71,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1039/c7ra06973a",
+      "field": "size_nm",
+      "gold": 30.0,
+      "system": 50.0,
+      "type": "field_mismatch",
+      "deviation_pct": 66.67,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1039/c7ra06973a",
+      "field": "temperature_c",
+      "gold": 25,
+      "system": 37.0,
+      "type": "field_mismatch",
+      "deviation_pct": 48.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1039/c7ra06973a",
+      "field": "nanozyme",
+      "gold": "H–rGO–Au",
+      "system": "AuNP@Ag–H–rGO",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1039/c7ra06973a",
+      "field": "metal_type",
+      "gold": 79,
+      "system": 47,
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1039/c7ra06973a",
+      "field": "metal_ratio",
+      "gold": 100.0,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1039/c7ra06973a",
+      "field": "size_nm",
+      "gold": 12.0,
+      "system": 50.0,
+      "type": "field_mismatch",
+      "deviation_pct": 316.67,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1039/c7ra06973a",
+      "field": "temperature_c",
+      "gold": 25,
+      "system": 37.0,
+      "type": "field_mismatch",
+      "deviation_pct": 48.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1039/c7ra06973a",
+      "field": "Km_mM",
+      "gold": 0.074,
+      "system": 0.062,
+      "type": "field_mismatch",
+      "deviation_pct": 16.22,
+      "subtype": "small_error"
+    },
+    {
+      "doi": "10.1039/c7ra06973a",
+      "field": "Vmax_uM_s_minus1",
+      "gold": 0.181,
+      "system": 0.212,
+      "type": "field_mismatch",
+      "deviation_pct": 17.13,
+      "subtype": "small_error"
+    },
+    {
+      "doi": "10.1016/j.snb.2018.04.150",
+      "field": "metal_type",
+      "gold": 25,
+      "system": 27,
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1016/j.snb.2018.04.150",
+      "field": "metal_ratio",
+      "gold": 33.33,
+      "system": 66.66,
+      "type": "field_mismatch",
+      "deviation_pct": 100.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1016/j.snb.2018.04.150",
+      "field": "metal_valence",
+      "gold": 2.0,
+      "system": 3,
+      "type": "field_mismatch",
+      "deviation_pct": 50.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1021/acsami.6b05354",
+      "field": "size_nm",
+      "gold": 135.0,
+      "system": 5.0,
+      "type": "field_mismatch",
+      "deviation_pct": 96.3,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1021/acsami.6b05354",
+      "field": "shape",
+      "gold": "nanorod",
+      "system": "sphere",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1021/acsami.6b05354",
+      "field": "size_nm",
+      "gold": 50.0,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1002/slct.201900681",
+      "field": "buffer_ph_value",
+      "gold": 5.0,
+      "system": 4.0,
+      "type": "field_mismatch",
+      "deviation_pct": 20.0,
+      "subtype": "small_error"
+    },
+    {
+      "doi": "10.1016/j.jcis.2019.01.061",
+      "field": "size_nm",
+      "gold": 35.0,
+      "system": 50.0,
+      "type": "field_mismatch",
+      "deviation_pct": 42.86,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1016/j.jcis.2019.01.061",
+      "field": "shape",
+      "gold": "sphere",
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1016/j.jcis.2019.01.061",
+      "field": "size_nm",
+      "gold": 65.0,
+      "system": null,
+      "type": "field_miss",
+      "subtype": "missing"
+    },
+    {
+      "doi": "10.1007/s00604-019-3835-5",
+      "field": "metal_ratio",
+      "gold": 75.0,
+      "system": 66.66,
+      "type": "field_mismatch",
+      "deviation_pct": 11.12,
+      "subtype": "small_error"
+    },
+    {
+      "doi": "10.1016/j.snb.2018.05.108",
+      "field": "metal_type",
+      "gold": 58,
+      "system": 27,
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1016/j.snb.2018.05.108",
+      "field": "metal_valence",
+      "gold": 4.0,
+      "system": 3,
+      "type": "field_mismatch",
+      "deviation_pct": 25.0,
+      "subtype": "small_error"
+    },
+    {
+      "doi": "10.1016/j.snb.2018.05.108",
+      "field": "shape",
+      "gold": "nanoparticle",
+      "system": "sphere",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1016/j.snb.2018.05.108",
+      "field": "size_nm",
+      "gold": 10.0,
+      "system": 25.0,
+      "type": "field_mismatch",
+      "deviation_pct": 150.0,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1016/j.snb.2018.05.108",
+      "field": "temperature_c",
+      "gold": 45,
+      "system": 25.0,
+      "type": "field_mismatch",
+      "deviation_pct": 44.44,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1016/j.bios.2020.112342",
+      "field": "metal_ratio",
+      "gold": 66.67,
+      "system": 100.0,
+      "type": "field_mismatch",
+      "deviation_pct": 49.99,
+      "subtype": "large_error"
+    },
+    {
+      "doi": "10.1016/j.snb.2019.127511",
+      "field": "shape",
+      "gold": "dodecahedral",
+      "system": "polyhedron",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    },
+    {
+      "doi": "10.1016/j.talanta.2019.120707",
+      "field": "dispersion_medium",
+      "gold": "acetate buffer",
+      "system": "phosphate buffer",
+      "type": "field_mismatch",
+      "subtype": "value_mismatch"
+    }
+  ],
+  "dver_detail": {
+    "dver": 0.4328,
+    "dver_deduped": 0.4627,
+    "valid_papers": 29,
+    "invalid_papers": 38,
+    "total_papers": 67,
+    "raw_error_count": 174,
+    "threshold_errors_per_paper": 1
+  },
+  "strict_mode": {
+    "precision": 0.9165,
+    "recall": 0.9701,
+    "f1": 0.9425,
+    "accuracy": 0.8913,
+    "macro_f1": 0.9385
+  },
+  "zero_extraction_dois": [],
+  "group_level": {
+    "标识": {
+      "precision": 0.9272,
+      "recall": 1.0,
+      "f1": 0.9622,
+      "accuracy": 0.9272,
+      "macro_f1": 0.9607
+    },
+    "掺杂": {
+      "precision": 0.9961,
+      "recall": 1.0,
+      "f1": 0.9981,
+      "accuracy": 0.9961,
+      "macro_f1": 0.998
+    },
+    "主金属": {
+      "precision": 0.8571,
+      "recall": 0.9796,
+      "f1": 0.9143,
+      "accuracy": 0.8421,
+      "macro_f1": 0.9118
+    },
+    "物理": {
+      "precision": 0.8197,
+      "recall": 0.9202,
+      "f1": 0.8671,
+      "accuracy": 0.7653,
+      "macro_f1": 0.8643
+    },
+    "反应条件": {
+      "precision": 0.9017,
+      "recall": 0.9638,
+      "f1": 0.9317,
+      "accuracy": 0.8721,
+      "macro_f1": 0.9308
+    },
+    "动力学": {
+      "precision": 0.9465,
+      "recall": 0.9124,
+      "f1": 0.9291,
+      "accuracy": 0.8676,
+      "macro_f1": 0.9279
+    }
+  },
+  "coverage": {
+    "gold_dois": 67,
+    "system_dois": 67,
+    "matched_dois": 67
+  },
+  "eval_fields": [
+    "nanozyme",
+    "mimic_enzyme_activity",
+    "doped_N",
+    "doped_P",
+    "doped_S",
+    "doped_B",
+    "doped_F",
+    "metal_type",
+    "metal_ratio",
+    "metal_valence",
+    "shape",
+    "size_nm",
+    "dispersion_medium",
+    "buffer_ph_value",
+    "temperature_c",
+    "Km_mM",
+    "Vmax_uM_s_minus1"
+  ],
+  "diagnostics": {
+    "material_family_coverage": {
+      "matched": 94,
+      "total": 103,
+      "rate": 0.9126
+    },
+    "static_field_compatibility": {
+      "precision": 0.924,
+      "recall": 0.9838,
+      "f1": 0.953,
+      "accuracy": 0.9101,
+      "macro_f1": 0.948
+    },
+    "kinetic_bundle_match_rate": {
+      "matched": 98,
+      "total": 187,
+      "rate": 0.5241
+    },
+    "unknown_candidate_rate": {
+      "unknown": 14,
+      "total": 197,
+      "rate": 0.0711
+    }
+  },
+  "kinetic_failure_modes": {
+    "by_field": {
+      "Km_mM": {
+        "missing": 6,
+        "unit_error": 1,
+        "small_error": 1,
+        "total": 8
+      },
+      "Vmax_uM_s_minus1": {
+        "missing": 11,
+        "unit_error": 7,
+        "small_error": 1,
+        "total": 19
+      }
+    },
+    "summary": {
+      "missing": 17,
+      "unit_error": 8,
+      "small_error": 2,
+      "total": 27
+    }
+  },
+  "evaluation_protocol": {
+    "overall": "gold_compatible_v1",
+    "diagnostics": "identity_and_bundle_v1"
+  }
+}
