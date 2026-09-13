@@ -1,0 +1,5610 @@
+{
+  "version": 1,
+  "categories": [
+    "金属氧化物",
+    "贵金属",
+    "碳基材料",
+    "单原子催化剂",
+    "金属有机框架",
+    "硫化物",
+    "复合异质结构",
+    "合金",
+    "量子点",
+    "其他"
+  ],
+  "materials": {
+    "04cucds": {
+      "raws": [
+        "0.4Cu-CDs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "04cucds",
+      "layer": "L0"
+    },
+    "10prceo2nc": {
+      "raws": [
+        "10% Pr-CeO2 NC"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "10prceo2nc",
+      "layer": "L0"
+    },
+    "15prceo2nc": {
+      "raws": [
+        "15% Pr-CeO2 NC"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "15prceo2nc",
+      "layer": "L0"
+    },
+    "1dgc3n4mil105fe": {
+      "raws": [
+        "1D-g-C3N4/\nMIL-105(Fe)"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "1dgc3n4mil105fe",
+      "layer": "L0"
+    },
+    "1dgc3n4mil106fe": {
+      "raws": [
+        "1D-g-C3N4/\nMIL-106(Fe)"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "1dgc3n4mil106fe",
+      "layer": "L0"
+    },
+    "20prceo2ncnr": {
+      "raws": [
+        "20% Pr-CeO2 NC+NR"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "20prceo2ncnr",
+      "layer": "L0"
+    },
+    "2dgc3n4mil103fe": {
+      "raws": [
+        "2D-g-C3N4/\nMIL-103(Fe)"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "2dgc3n4mil103fe",
+      "layer": "L0"
+    },
+    "2dgc3n4mil104fe": {
+      "raws": [
+        "2D-g-C3N4/\nMIL-104(Fe)"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "2dgc3n4mil104fe",
+      "layer": "L0"
+    },
+    "3dgc3n4mil101fe": {
+      "raws": [
+        "3D-g-C3N4/\nMIL-101(Fe)"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "3dgc3n4mil101fe",
+      "layer": "L0"
+    },
+    "3dgc3n4mil102fe": {
+      "raws": [
+        "3D-g-C3N4/\nMIL-102(Fe)"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "3dgc3n4mil102fe",
+      "layer": "L0"
+    },
+    "3drgofe3o4pd": {
+      "raws": [
+        "3DRGO_Fe3O4-Pd"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "3drgofe3o4pd",
+      "layer": "L0"
+    },
+    "3enddbacu2cds": {
+      "raws": [
+        "3′-end-DBA-Cu2+ -CDs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "3enddbacu2cds",
+      "layer": "L0"
+    },
+    "3endtbacu2cds": {
+      "raws": [
+        "3′-end-TBA-Cu2+ -CDs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "3endtbacu2cds",
+      "layer": "L0"
+    },
+    "50cocusmmt": {
+      "raws": [
+        "50Co/CuS-MMT"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "50cocusmmt",
+      "layer": "L0"
+    },
+    "5enddbacu2cds": {
+      "raws": [
+        "5′-end-DBA-Cu2+ -CDs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "5enddbacu2cds",
+      "layer": "L0"
+    },
+    "5enddbatgta2cu2cds": {
+      "raws": [
+        "5′-end-DBA-(TGTA)2-Cu2+ -CDs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "5enddbatgta2cu2cds",
+      "layer": "L0"
+    },
+    "5enddbatgta3cu2cds": {
+      "raws": [
+        "5′-end-DBA-(TGTA)3-Cu2+ -CDs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "5enddbatgta3cu2cds",
+      "layer": "L0"
+    },
+    "5enddbatgtacu2cds": {
+      "raws": [
+        "5′-end-DBA-(TGTA)--Cu2+ -CDs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "5enddbatgtacu2cds",
+      "layer": "L0"
+    },
+    "5endtbacu2cds": {
+      "raws": [
+        "5′-end-TBA-Cu2+ -CDs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "5endtbacu2cds",
+      "layer": "L0"
+    },
+    "5endtbatgta2cu2cds": {
+      "raws": [
+        "5′-end-TBA-(TGTA)2-Cu2+ -CDs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "5endtbatgta2cu2cds",
+      "layer": "L0"
+    },
+    "5endtbatgta3cu2cds": {
+      "raws": [
+        "5′-end-TBA-(TGTA)3-Cu2+ -CDs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "5endtbatgta3cu2cds",
+      "layer": "L0"
+    },
+    "5endtbatgtacu2cds": {
+      "raws": [
+        "5′-end-TBA-(TGTA)-Cu2+ -CDs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "5endtbatgtacu2cds",
+      "layer": "L0"
+    },
+    "5prceo2nc": {
+      "raws": [
+        "5% Pr-CeO2 NC"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "5prceo2nc",
+      "layer": "L0"
+    },
+    "a30as1411aunf": {
+      "raws": [
+        "A30AS1411-AuNF"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "a30as1411aunf",
+      "layer": "L0"
+    },
+    "acg9ptnp": {
+      "raws": [
+        "Ac-G9/Pt NP"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "acg9ptnp",
+      "layer": "L0"
+    },
+    "adpamnsio2ilpeg": {
+      "raws": [
+        "AdpaMn@SiO2@IL–PEG"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "adpamnsio2ilpeg",
+      "layer": "L0"
+    },
+    "afe2o3": {
+      "raws": [
+        "a-Fe2O3"
+      ],
+      "count": 5,
+      "n_papers": 1,
+      "category": null,
+      "family": "afe2o3",
+      "layer": "L0"
+    },
+    "ag3po4": {
+      "raws": [
+        "Ag3PO4"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ag3po4",
+      "layer": "L0"
+    },
+    "ag3po4mcs": {
+      "raws": [
+        "Ag3PO4 MCs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ag3po4mcs",
+      "layer": "L0"
+    },
+    "agag3po4mcs": {
+      "raws": [
+        "Ag@Ag3PO4MCs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "agag3po4mcs",
+      "layer": "L0"
+    },
+    "agauagclnanohybrid": {
+      "raws": [
+        "Ag-Au/AgCl nanohybrid"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "agauagclnanohybrid",
+      "layer": "L0"
+    },
+    "agfabric": {
+      "raws": [
+        "Ag@Fabric"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "agfabric",
+      "layer": "L0"
+    },
+    "agncs": {
+      "raws": [
+        "Ag NCs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "agncs",
+      "layer": "L0"
+    },
+    "agnpswcnt": {
+      "raws": [
+        "AgNP/SWCNT"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "agnpswcnt",
+      "layer": "L0"
+    },
+    "agrgo": {
+      "raws": [
+        "Ag/rGO"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "agrgo",
+      "layer": "L0"
+    },
+    "alafe3o4": {
+      "raws": [
+        "Ala-Fe3O4"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "alafe3o4",
+      "layer": "L0"
+    },
+    "amip": {
+      "raws": [
+        "A-MIP"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "amip",
+      "layer": "L0"
+    },
+    "amippos": {
+      "raws": [
+        "A-MIPpos"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "amippos",
+      "layer": "L0"
+    },
+    "apdmoo3xnh": {
+      "raws": [
+        "A-Pd@MoO3−x NH"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "apdmoo3xnh",
+      "layer": "L0"
+    },
+    "apotfmnoxnfs": {
+      "raws": [
+        "apo-TF-MnOx NFs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "apotfmnoxnfs",
+      "layer": "L0"
+    },
+    "argininefe3o4": {
+      "raws": [
+        "Arginine-Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "argininefe3o4",
+      "layer": "L0"
+    },
+    "aru": {
+      "raws": [
+        "A-Ru"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "aru",
+      "layer": "L0"
+    },
+    "asparaginefe3o4": {
+      "raws": [
+        "Asparagine-Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "asparaginefe3o4",
+      "layer": "L0"
+    },
+    "asparticacidicfe3o4": {
+      "raws": [
+        "Aspartic acidic-Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "asparticacidicfe3o4",
+      "layer": "L0"
+    },
+    "atpcu": {
+      "raws": [
+        "ATP-Cu"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "atpcu",
+      "layer": "L0"
+    },
+    "au015pt085": {
+      "raws": [
+        "Au0.15Pt0.85"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "au015pt085",
+      "layer": "L0"
+    },
+    "au017pt": {
+      "raws": [
+        "Au@0.17Pt"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "au017pt",
+      "layer": "L0"
+    },
+    "au01bioi": {
+      "raws": [
+        "Au0.1/BiOI"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "au01bioi",
+      "layer": "L0"
+    },
+    "au025pt": {
+      "raws": [
+        "Au@0.25Pt"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "au025pt",
+      "layer": "L0"
+    },
+    "au025pt075": {
+      "raws": [
+        "Au0.25Pt0.75"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "au025pt075",
+      "layer": "L0"
+    },
+    "au05pt05": {
+      "raws": [
+        "Au0.5Pt0.5"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "au05pt05",
+      "layer": "L0"
+    },
+    "au075pt025": {
+      "raws": [
+        "Au0.75Pt0.25"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "au075pt025",
+      "layer": "L0"
+    },
+    "au10biocl": {
+      "raws": [
+        "Au10/BiOCl"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "au10biocl",
+      "layer": "L0"
+    },
+    "au1bioi": {
+      "raws": [
+        "Au1/BiOI"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "au1bioi",
+      "layer": "L0"
+    },
+    "au24ag1": {
+      "raws": [
+        "Au24Ag1"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "au24ag1",
+      "layer": "L0"
+    },
+    "au24cd1": {
+      "raws": [
+        "Au24Cd1"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "au24cd1",
+      "layer": "L0"
+    },
+    "au24cu1": {
+      "raws": [
+        "Au24Cu1"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "au24cu1",
+      "layer": "L0"
+    },
+    "au25": {
+      "raws": [
+        "Au25"
+      ],
+      "count": 2,
+      "n_papers": 2,
+      "category": null,
+      "family": "au25",
+      "layer": "L0"
+    },
+    "auagaft": {
+      "raws": [
+        "Au-Ag AFT"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "auagaft",
+      "layer": "L0"
+    },
+    "auagnps": {
+      "raws": [
+        "Au-Ag NPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "auagnps",
+      "layer": "L0"
+    },
+    "auceo2csnps": {
+      "raws": [
+        "Au/CeO2 CSNPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "auceo2csnps",
+      "layer": "L0"
+    },
+    "auco3o4ceoxncs": {
+      "raws": [
+        "Au/Co3O4-CeOx NCs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "auco3o4ceoxncs",
+      "layer": "L0"
+    },
+    "aue3h15": {
+      "raws": [
+        "Au@E3H15"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "aue3h15",
+      "layer": "L0"
+    },
+    "aue3h22": {
+      "raws": [
+        "Au@E3H22"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "aue3h22",
+      "layer": "L0"
+    },
+    "aue3h8": {
+      "raws": [
+        "Au@E3H8"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "aue3h8",
+      "layer": "L0"
+    },
+    "auft": {
+      "raws": [
+        "Au-Ft"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "auft",
+      "layer": "L0"
+    },
+    "aumno2xnanozymes": {
+      "raws": [
+        "Au@MnO2-X nanozymes"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "aumno2xnanozymes",
+      "layer": "L0"
+    },
+    "aunh2": {
+      "raws": [
+        "Au-NH2"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "aunh2",
+      "layer": "L0"
+    },
+    "aunp": {
+      "raws": [
+        "AuNP"
+      ],
+      "count": 9,
+      "n_papers": 1,
+      "category": null,
+      "family": "aunp",
+      "layer": "L0"
+    },
+    "aunp2": {
+      "raws": [
+        "AuNP-2"
+      ],
+      "count": 9,
+      "n_papers": 1,
+      "category": null,
+      "family": "aunp",
+      "layer": "L0"
+    },
+    "aunp3": {
+      "raws": [
+        "AuNP-3"
+      ],
+      "count": 8,
+      "n_papers": 1,
+      "category": null,
+      "family": "aunp",
+      "layer": "L0"
+    },
+    "aunp4": {
+      "raws": [
+        "AuNP-4"
+      ],
+      "count": 7,
+      "n_papers": 1,
+      "category": null,
+      "family": "aunp",
+      "layer": "L0"
+    },
+    "aunpaghrgo": {
+      "raws": [
+        "AuNP@Ag–H–rGO"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "aunpaghrgo",
+      "layer": "L0"
+    },
+    "aunpfe2o3nc": {
+      "raws": [
+        "Au-NPFe2O3NC"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "aunpfe2o3nc",
+      "layer": "L0"
+    },
+    "aunps": {
+      "raws": [
+        "Au NPs",
+        "AuNPs"
+      ],
+      "count": 6,
+      "n_papers": 5,
+      "category": null,
+      "family": "aunps",
+      "layer": "L0"
+    },
+    "aunpscitgn": {
+      "raws": [
+        "Au NPs/Cit-GN"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "aunpscitgn",
+      "layer": "L0"
+    },
+    "aunpsgns": {
+      "raws": [
+        "AuNPs/GNs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "aunpsgns",
+      "layer": "L0"
+    },
+    "aunpspvpgns": {
+      "raws": [
+        "Au NPs/PVP-GNs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "aunpspvpgns",
+      "layer": "L0"
+    },
+    "aunrspdha": {
+      "raws": [
+        "Au NRs-Pd@HA"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "aunrspdha",
+      "layer": "L0"
+    },
+    "aunsaghrgo": {
+      "raws": [
+        "AuNS@Ag–H–rGO"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "aunsaghrgo",
+      "layer": "L0"
+    },
+    "aupdnrs": {
+      "raws": [
+        "Au@PdNRs"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "aupdnrs",
+      "layer": "L0"
+    },
+    "aupt": {
+      "raws": [
+        "Au@Pt"
+      ],
+      "count": 5,
+      "n_papers": 2,
+      "category": null,
+      "family": "aupt",
+      "layer": "L0"
+    },
+    "aupt010": {
+      "raws": [
+        "Au@Pt0.10"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "aupt",
+      "layer": "L0"
+    },
+    "aupt017": {
+      "raws": [
+        "Au@Pt0.17"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "aupt",
+      "layer": "L0"
+    },
+    "aupt025": {
+      "raws": [
+        "Au@Pt0.25"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "aupt",
+      "layer": "L0"
+    },
+    "aupt025nrs": {
+      "raws": [
+        "Au@Pt0.25 NRs"
+      ],
+      "count": 4,
+      "n_papers": 1,
+      "category": null,
+      "family": "aupt025nrs",
+      "layer": "L0"
+    },
+    "auptag033": {
+      "raws": [
+        "Au@PtAg0.33"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "auptag033",
+      "layer": "L0"
+    },
+    "auptag05": {
+      "raws": [
+        "Au@PtAg0.5"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "auptag05",
+      "layer": "L0"
+    },
+    "auptnps": {
+      "raws": [
+        "Au@Pt NPs",
+        "AuPtNPs"
+      ],
+      "count": 4,
+      "n_papers": 2,
+      "category": null,
+      "family": "auptnps",
+      "layer": "L0"
+    },
+    "ausiacd": {
+      "raws": [
+        "Au_Si_ACD"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ausiacd",
+      "layer": "L0"
+    },
+    "bareaunps": {
+      "raws": [
+        "bare AuNPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "bareaunps",
+      "layer": "L0"
+    },
+    "bareceo2": {
+      "raws": [
+        "bare CeO2"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "bareceo2",
+      "layer": "L0"
+    },
+    "barecus": {
+      "raws": [
+        "Bare CuS"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "barecus",
+      "layer": "L0"
+    },
+    "bcnnts": {
+      "raws": [
+        "BCNNTs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "bcnnts",
+      "layer": "L0"
+    },
+    "biaunps": {
+      "raws": [
+        "Bi–Au NPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "biaunps",
+      "layer": "L0"
+    },
+    "biobr": {
+      "raws": [
+        "BiOBr"
+      ],
+      "count": 4,
+      "n_papers": 2,
+      "category": null,
+      "family": "biobr",
+      "layer": "L0"
+    },
+    "biocl": {
+      "raws": [
+        "BiOCl"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "biocl",
+      "layer": "L0"
+    },
+    "bioi": {
+      "raws": [
+        "BiOI"
+      ],
+      "count": 3,
+      "n_papers": 2,
+      "category": null,
+      "family": "bioi",
+      "layer": "L0"
+    },
+    "bnnscus": {
+      "raws": [
+        "BNNS@CuS"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "bnnscus",
+      "layer": "L0"
+    },
+    "bsaagncs": {
+      "raws": [
+        "BSA-Ag NCs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "bsaagncs",
+      "layer": "L0"
+    },
+    "bsaagncshg": {
+      "raws": [
+        "BSA- Ag NCs -Hg"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "bsaagncshg",
+      "layer": "L0"
+    },
+    "bsaau": {
+      "raws": [
+        "BSA-Au"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "bsaau",
+      "layer": "L0"
+    },
+    "bsace6noruo2": {
+      "raws": [
+        "BSA-Ce6&NO-RuO2"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "bsace6noruo2",
+      "layer": "L0"
+    },
+    "bsacuncs": {
+      "raws": [
+        "BSA-Cu-NCs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "bsacuncs",
+      "layer": "L0"
+    },
+    "bsah2o2ceo2": {
+      "raws": [
+        "BSA-H2O2-CeO2"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "bsah2o2ceo2",
+      "layer": "L0"
+    },
+    "bsamno2": {
+      "raws": [
+        "BSA-MnO2"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "bsamno2",
+      "layer": "L0"
+    },
+    "bsapt": {
+      "raws": [
+        "BSA-Pt"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "bsapt",
+      "layer": "L0"
+    },
+    "c91h36": {
+      "raws": [
+        "C91H36"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "c91h36",
+      "layer": "L0"
+    },
+    "carbondots": {
+      "raws": [
+        "carbon dots"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "carbondots",
+      "layer": "L0"
+    },
+    "cdco2o4": {
+      "raws": [
+        "CdCo2O4"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cdco2o4",
+      "layer": "L0"
+    },
+    "cdsnc": {
+      "raws": [
+        "CDs@NC"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cdsnc",
+      "layer": "L0"
+    },
+    "ce06la04o180x": {
+      "raws": [
+        "Ce0.6La0.4O1.80x"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ce06la04o180x",
+      "layer": "L0"
+    },
+    "ce09la01o195x": {
+      "raws": [
+        "Ce0.9La0.1O1.95x"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ce09la01o195x",
+      "layer": "L0"
+    },
+    "cebisio2": {
+      "raws": [
+        "Ce-Bi/SiO2"
+      ],
+      "count": 4,
+      "n_papers": 1,
+      "category": null,
+      "family": "cebisio2",
+      "layer": "L0"
+    },
+    "cebpydc": {
+      "raws": [
+        "Ce-BPyDC"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "cebpydc",
+      "layer": "L0"
+    },
+    "ceo2": {
+      "raws": [
+        "CeO2"
+      ],
+      "count": 11,
+      "n_papers": 6,
+      "category": null,
+      "family": "ceo2",
+      "layer": "L0"
+    },
+    "ceo2mpeg2kmpega1kmph": {
+      "raws": [
+        "CeO2@MPEG2KMPEGa1K-MPh"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ceo2mpeg2kmpega1kmph",
+      "layer": "L0"
+    },
+    "ceo2mpeg2kmpega2kmph": {
+      "raws": [
+        "CeO2@MPEG2KMPEGa2K-MPh"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ceo2mpeg2kmpega2kmph",
+      "layer": "L0"
+    },
+    "ceo2mpeg2kmph": {
+      "raws": [
+        "CeO2@MPEG2KMPh"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "ceo2mpeg2kmph",
+      "layer": "L0"
+    },
+    "ceo2mpeg5kmph": {
+      "raws": [
+        "CeO2@MPEG5KMPh"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "ceo2mpeg5kmph",
+      "layer": "L0"
+    },
+    "ceo2nc": {
+      "raws": [
+        "CeO2 NC"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ceo2nc",
+      "layer": "L0"
+    },
+    "ceo2nps": {
+      "raws": [
+        "CeO2 NPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ceo2nps",
+      "layer": "L0"
+    },
+    "ceo2nrs": {
+      "raws": [
+        "CeO2 NRs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ceo2nrs",
+      "layer": "L0"
+    },
+    "ceo2paa2k": {
+      "raws": [
+        "CeO2@PAA2K"
+      ],
+      "count": 4,
+      "n_papers": 1,
+      "category": null,
+      "family": "ceo2paa2k",
+      "layer": "L0"
+    },
+    "ceo2paa5k": {
+      "raws": [
+        "CeO2@PAA5K"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "ceo2paa5k",
+      "layer": "L0"
+    },
+    "ceo2rgo": {
+      "raws": [
+        "CeO2/rGO"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ceo2rgo",
+      "layer": "L0"
+    },
+    "ceo2x": {
+      "raws": [
+        "CeO2−x"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "ceo2x",
+      "layer": "L0"
+    },
+    "ceonppoma": {
+      "raws": [
+        "CeONP@POMA"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ceonppoma",
+      "layer": "L0"
+    },
+    "ceonppomd": {
+      "raws": [
+        "CeONP@POMD"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ceonppomd",
+      "layer": "L0"
+    },
+    "ceonppomk": {
+      "raws": [
+        "CeONP@POMK"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ceonppomk",
+      "layer": "L0"
+    },
+    "ceriumoxide": {
+      "raws": [
+        "Cerium Oxide"
+      ],
+      "count": 7,
+      "n_papers": 1,
+      "category": null,
+      "family": "ceriumoxide",
+      "layer": "L0"
+    },
+    "ceriumoxidenanoparticles": {
+      "raws": [
+        "cerium oxide nanoparticles"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ceriumoxidenanoparticles",
+      "layer": "L0"
+    },
+    "ceriumoxidenss": {
+      "raws": [
+        "Cerium Oxide NSs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ceriumoxidenss",
+      "layer": "L0"
+    },
+    "cfcualldh": {
+      "raws": [
+        "CF@CuAl-LDH"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cfcualldh",
+      "layer": "L0"
+    },
+    "citaunps": {
+      "raws": [
+        "Cit-AuNPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "citaunps",
+      "layer": "L0"
+    },
+    "citirnps": {
+      "raws": [
+        "Cit-IrNPs"
+      ],
+      "count": 4,
+      "n_papers": 1,
+      "category": null,
+      "family": "citirnps",
+      "layer": "L0"
+    },
+    "citrateptnps": {
+      "raws": [
+        "citrate-PtNPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "citrateptnps",
+      "layer": "L0"
+    },
+    "cnfmnco2o45": {
+      "raws": [
+        "CNF/MnCo2O4.5"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cnfmnco2o45",
+      "layer": "L0"
+    },
+    "co3o4": {
+      "raws": [
+        "Co3O4"
+      ],
+      "count": 16,
+      "n_papers": 8,
+      "category": null,
+      "family": "co3o4",
+      "layer": "L0"
+    },
+    "co3o4cofeoxidedsncs": {
+      "raws": [
+        "Co3O4@Co-Fe oxide DSNCs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "co3o4cofeoxidedsncs",
+      "layer": "L0"
+    },
+    "co3o4cuohncs": {
+      "raws": [
+        "Co3O4/CuO HNCs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "co3o4cuohncs",
+      "layer": "L0"
+    },
+    "co3o4f": {
+      "raws": [
+        "Co3O4-F"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "co3o4f",
+      "layer": "L0"
+    },
+    "co3o4mmtncs": {
+      "raws": [
+        "Co3O4-MMT NCs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "co3o4mmtncs",
+      "layer": "L0"
+    },
+    "co3o4nanocubes": {
+      "raws": [
+        "Co3O4 nanocubes"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "co3o4nanocubes",
+      "layer": "L0"
+    },
+    "co3o4nanoplates": {
+      "raws": [
+        "Co3O4 nanoplates"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "co3o4nanoplates",
+      "layer": "L0"
+    },
+    "co3o4nanorods": {
+      "raws": [
+        "Co3O4 nanorods"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "co3o4nanorods",
+      "layer": "L0"
+    },
+    "co3o4nps": {
+      "raws": [
+        "Co3O4  NPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "co3o4nps",
+      "layer": "L0"
+    },
+    "co3o4rgo": {
+      "raws": [
+        "Co3O4/rGO"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "co3o4rgo",
+      "layer": "L0"
+    },
+    "co3o4ssncs": {
+      "raws": [
+        "Co3O4 SSNCs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "co3o4ssncs",
+      "layer": "L0"
+    },
+    "co4s3cooh2hnts": {
+      "raws": [
+        "Co4S3/Co(OH)2 HNTs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "co4s3cooh2hnts",
+      "layer": "L0"
+    },
+    "cobaltdopedti3c2mxene": {
+      "raws": [
+        "cobalt-doped Ti3C2 MXene"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cobaltdopedti3c2mxene",
+      "layer": "L0"
+    },
+    "cofe2o4": {
+      "raws": [
+        "CoFe2O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cofe2o4",
+      "layer": "L0"
+    },
+    "cofeldhs11": {
+      "raws": [
+        "Co-Fe LDHs(1:1)"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cofeldhs11",
+      "layer": "L0"
+    },
+    "cofeldhs12": {
+      "raws": [
+        "Co-Fe LDHs(1:2)"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cofeldhs12",
+      "layer": "L0"
+    },
+    "cofeldhs21": {
+      "raws": [
+        "Co-Fe LDHs(2:1)"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cofeldhs21",
+      "layer": "L0"
+    },
+    "cofeoxidessncs": {
+      "raws": [
+        "Co-Fe oxide SSNCs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cofeoxidessncs",
+      "layer": "L0"
+    },
+    "comnmof": {
+      "raws": [
+        "Co/Mn-MOF"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "comnmof",
+      "layer": "L0"
+    },
+    "concds": {
+      "raws": [
+        "CoNCDs"
+      ],
+      "count": 4,
+      "n_papers": 1,
+      "category": null,
+      "family": "concds",
+      "layer": "L0"
+    },
+    "conincsnfc": {
+      "raws": [
+        "CoNi NCs/NF@C"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "conincsnfc",
+      "layer": "L0"
+    },
+    "conps": {
+      "raws": [
+        "Co NPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "conps",
+      "layer": "L0"
+    },
+    "conxnc650": {
+      "raws": [
+        "CoNx-NC-650"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "conxnc650",
+      "layer": "L0"
+    },
+    "coo": {
+      "raws": [
+        "CoO"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "coo",
+      "layer": "L0"
+    },
+    "cooxhgo": {
+      "raws": [
+        "CoOxH-GO"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cooxhgo",
+      "layer": "L0"
+    },
+    "cooxhgocn": {
+      "raws": [
+        "CoOxH-GO + CN−"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cooxhgocn",
+      "layer": "L0"
+    },
+    "coppersulfide": {
+      "raws": [
+        "copper sulfide"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "coppersulfide",
+      "layer": "L0"
+    },
+    "cos": {
+      "raws": [
+        "CoS"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cos",
+      "layer": "L0"
+    },
+    "cosahssil4rcm": {
+      "raws": [
+        "Co@SAHSs@IL-4@RCM"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cosahssil4rcm",
+      "layer": "L0"
+    },
+    "cosahssil5rcm": {
+      "raws": [
+        "Co@SAHSs@IL-5@RCM"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cosahssil5rcm",
+      "layer": "L0"
+    },
+    "cose2": {
+      "raws": [
+        "CoSe2"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cose2",
+      "layer": "L0"
+    },
+    "cotbppbpy": {
+      "raws": [
+        "CoⅡTBPP(bpy)"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cotbppbpy",
+      "layer": "L0"
+    },
+    "covmmos": {
+      "raws": [
+        "Co-V MMOs"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "covmmos",
+      "layer": "L0"
+    },
+    "cru": {
+      "raws": [
+        "C-Ru"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cru",
+      "layer": "L0"
+    },
+    "csagi": {
+      "raws": [
+        "CS-AgI"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "csagi",
+      "layer": "L0"
+    },
+    "cspbbr3ncspl": {
+      "raws": [
+        "CsPbBr3NCs@PL"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cspbbr3ncspl",
+      "layer": "L0"
+    },
+    "cspbcl3ncspl": {
+      "raws": [
+        "CsPbCl3NCs@PL"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cspbcl3ncspl",
+      "layer": "L0"
+    },
+    "cspbi3ncspl": {
+      "raws": [
+        "CsPbI3NCs@PL"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cspbi3ncspl",
+      "layer": "L0"
+    },
+    "cu": {
+      "raws": [
+        "Cu"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cu",
+      "layer": "L0"
+    },
+    "cu2mos4": {
+      "raws": [
+        "Cu2MoS4"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "cu2mos4",
+      "layer": "L0"
+    },
+    "cu2o": {
+      "raws": [
+        "Cu2O"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cu2o",
+      "layer": "L0"
+    },
+    "cu2ocdscu": {
+      "raws": [
+        "Cu2O-CDs-Cu"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cu2ocdscu",
+      "layer": "L0"
+    },
+    "cu2orgocurgo": {
+      "raws": [
+        "Cu2O/rGO（Cu/rGO）"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cu2orgocurgo",
+      "layer": "L0"
+    },
+    "cu3se2gsh": {
+      "raws": [
+        "Cu3Se2(GSH)"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cu3se2gsh",
+      "layer": "L0"
+    },
+    "cu54ousnps": {
+      "raws": [
+        "Cu5.4O USNPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cu54ousnps",
+      "layer": "L0"
+    },
+    "cuagrgo": {
+      "raws": [
+        "Cu-Ag/rGO"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cuagrgo",
+      "layer": "L0"
+    },
+    "cucnnds": {
+      "raws": [
+        "Cu-CNNDs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cucnnds",
+      "layer": "L0"
+    },
+    "cucu2oaerogels": {
+      "raws": [
+        "Cu@Cu2O aerogels"
+      ],
+      "count": 4,
+      "n_papers": 1,
+      "category": null,
+      "family": "cucu2oaerogels",
+      "layer": "L0"
+    },
+    "cucys": {
+      "raws": [
+        "Cu-Cys"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cucys",
+      "layer": "L0"
+    },
+    "cugmp": {
+      "raws": [
+        "Cu-GMP"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cugmp",
+      "layer": "L0"
+    },
+    "culphi": {
+      "raws": [
+        "CuL/PHI"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "culphi",
+      "layer": "L0"
+    },
+    "cumno2": {
+      "raws": [
+        "CuMnO2"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cumno2",
+      "layer": "L0"
+    },
+    "cun4": {
+      "raws": [
+        "CuN 4"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "cun4",
+      "layer": "L0"
+    },
+    "cunc": {
+      "raws": [
+        "Cu-N-C",
+        "Cu-NC"
+      ],
+      "count": 2,
+      "n_papers": 2,
+      "category": null,
+      "family": "cunc",
+      "layer": "L0"
+    },
+    "cunps": {
+      "raws": [
+        "Cu NPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cunps",
+      "layer": "L0"
+    },
+    "cuo": {
+      "raws": [
+        "CuO"
+      ],
+      "count": 3,
+      "n_papers": 2,
+      "category": null,
+      "family": "cuo",
+      "layer": "L0"
+    },
+    "cuoh2": {
+      "raws": [
+        "Cu(OH)2"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cuoh2",
+      "layer": "L0"
+    },
+    "cuoh2scs": {
+      "raws": [
+        "Cu(OH)2 SCs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cuoh2scs",
+      "layer": "L0"
+    },
+    "cuonps": {
+      "raws": [
+        "CuO NPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cuonps",
+      "layer": "L0"
+    },
+    "cupdgc3n4": {
+      "raws": [
+        "Cu-Pd/g-C3N4"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cupdgc3n4",
+      "layer": "L0"
+    },
+    "cupdgc3n5": {
+      "raws": [
+        "Cu-Pd/g-C3N5"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cupdgc3n5",
+      "layer": "L0"
+    },
+    "cupdmos2": {
+      "raws": [
+        "Cu-Pd/MoS2"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cupdmos2",
+      "layer": "L0"
+    },
+    "cupdmos3": {
+      "raws": [
+        "Cu-Pd/MoS3"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cupdmos3",
+      "layer": "L0"
+    },
+    "cupdrgo": {
+      "raws": [
+        "Cu-Pd/rGO"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cupdrgo",
+      "layer": "L0"
+    },
+    "cuptnanoalloys": {
+      "raws": [
+        "Cu-Pt Nanoalloys:"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cuptnanoalloys",
+      "layer": "L0"
+    },
+    "curgo": {
+      "raws": [
+        "Cu/rGO"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "curgo",
+      "layer": "L0"
+    },
+    "cusasp005": {
+      "raws": [
+        "CuS-Asp0.05"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cusasp005",
+      "layer": "L0"
+    },
+    "cusbsacu3po42": {
+      "raws": [
+        "CuS-BSA-Cu3(PO4)2"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cusbsacu3po42",
+      "layer": "L0"
+    },
+    "cusclews": {
+      "raws": [
+        "CuS clews"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cusclews",
+      "layer": "L0"
+    },
+    "cuse": {
+      "raws": [
+        "CuSe"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cuse",
+      "layer": "L0"
+    },
+    "cusecu2xse": {
+      "raws": [
+        "CuSe（Cu2-xSe）"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cusecu2xse",
+      "layer": "L0"
+    },
+    "cusecu2xsedc": {
+      "raws": [
+        "CuSe（Cu2-xSedc）"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cusecu2xsedc",
+      "layer": "L0"
+    },
+    "cusecu2xsesh": {
+      "raws": [
+        "CuSe（Cu2-xSesh）"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cusecu2xsesh",
+      "layer": "L0"
+    },
+    "cusmmt": {
+      "raws": [
+        "CuS-MMT"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cusmmt",
+      "layer": "L0"
+    },
+    "cusnps": {
+      "raws": [
+        "CuS NPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cusnps",
+      "layer": "L0"
+    },
+    "cusrgo": {
+      "raws": [
+        "CuS-rGO"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cusrgo",
+      "layer": "L0"
+    },
+    "cutcppfe": {
+      "raws": [
+        "Cu-TCPP(Fe)"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cutcppfe",
+      "layer": "L0"
+    },
+    "cutcppmofnanodots": {
+      "raws": [
+        "Cu-TCPP MOF nanodots"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cutcppmofnanodots",
+      "layer": "L0"
+    },
+    "cuznfesncs": {
+      "raws": [
+        "CuZnFeS NCs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "cuznfesncs",
+      "layer": "L0"
+    },
+    "cystinefe3o4": {
+      "raws": [
+        "Cystine-Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cystinefe3o4",
+      "layer": "L0"
+    },
+    "cytc": {
+      "raws": [
+        "Cyt c"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cytc",
+      "layer": "L0"
+    },
+    "cytcpcn222np": {
+      "raws": [
+        "Cyt c@PCN-222 NP"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "cytcpcn222np",
+      "layer": "L0"
+    },
+    "dexnzm": {
+      "raws": [
+        "Dex-NZM"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "dexnzm",
+      "layer": "L0"
+    },
+    "dsdnaaunps": {
+      "raws": [
+        "ds-DNA–AuNPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "dsdnaaunps",
+      "layer": "L0"
+    },
+    "fceo2": {
+      "raws": [
+        "F-CeO2"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fceo2",
+      "layer": "L0"
+    },
+    "fe05co05nps": {
+      "raws": [
+        "Fe0.5Co0.5 NPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe05co05nps",
+      "layer": "L0"
+    },
+    "fe05mn05fe2o4": {
+      "raws": [
+        "Fe0.5Mn0.5Fe2O4"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe05mn05fe2o4",
+      "layer": "L0"
+    },
+    "fe1nc": {
+      "raws": [
+        "Fe1NC"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe1nc",
+      "layer": "L0"
+    },
+    "fe2nc": {
+      "raws": [
+        "Fe2NC"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe2nc",
+      "layer": "L0"
+    },
+    "fe2o3": {
+      "raws": [
+        "Fe2O3"
+      ],
+      "count": 9,
+      "n_papers": 2,
+      "category": null,
+      "family": "fe2o3",
+      "layer": "L0"
+    },
+    "fe2o3nps": {
+      "raws": [
+        "γ-Fe2O3 NPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe2o3nps",
+      "layer": "L0"
+    },
+    "fe2o4nps": {
+      "raws": [
+        "γ-Fe2O4 NPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe2o4nps",
+      "layer": "L0"
+    },
+    "fe3cnc": {
+      "raws": [
+        "Fe3C/N−C"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3cnc",
+      "layer": "L0"
+    },
+    "fe3dopedmesoporouscarbon": {
+      "raws": [
+        "Fe3+-Doped Mesoporous Carbon"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3dopedmesoporouscarbon",
+      "layer": "L0"
+    },
+    "fe3o4": {
+      "raws": [
+        "Fe3O4"
+      ],
+      "count": 15,
+      "n_papers": 9,
+      "category": null,
+      "family": "fe3o4",
+      "layer": "L0"
+    },
+    "fe3o4amp": {
+      "raws": [
+        "Fe3O4 -AMP"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3o4amp",
+      "layer": "L0"
+    },
+    "fe3o4atp": {
+      "raws": [
+        "Fe3O4-ATP"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3o4atp",
+      "layer": "L0"
+    },
+    "fe3o4augo": {
+      "raws": [
+        "Fe3O4-Au-GO"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3o4augo",
+      "layer": "L0"
+    },
+    "fe3o4cucu2o": {
+      "raws": [
+        "Fe3O4@Cu@Cu2O"
+      ],
+      "count": 4,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3o4cucu2o",
+      "layer": "L0"
+    },
+    "fe3o4indolil": {
+      "raws": [
+        "Fe3O4@indol-IL"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3o4indolil",
+      "layer": "L0"
+    },
+    "fe3o4mno2": {
+      "raws": [
+        "Fe3O4@MnO2"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3o4mno2",
+      "layer": "L0"
+    },
+    "fe3o4ncit": {
+      "raws": [
+        "Fe3O4-Ncit"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3o4ncit",
+      "layer": "L0"
+    },
+    "fe3o4ncmd": {
+      "raws": [
+        "Fe3O4-NCMD"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3o4ncmd",
+      "layer": "L0"
+    },
+    "fe3o4ngly": {
+      "raws": [
+        "Fe3O4-Ngly"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3o4ngly",
+      "layer": "L0"
+    },
+    "fe3o4ngo": {
+      "raws": [
+        "Fe3O4-N-GO"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3o4ngo",
+      "layer": "L0"
+    },
+    "fe3o4nhep": {
+      "raws": [
+        "Fe3O4-Nhep"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3o4nhep",
+      "layer": "L0"
+    },
+    "fe3o4npei": {
+      "raws": [
+        "Fe3O4-NPEI"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3o4npei",
+      "layer": "L0"
+    },
+    "fe3o4npll": {
+      "raws": [
+        "Fe3O4-NPLL"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3o4npll",
+      "layer": "L0"
+    },
+    "fe3o4nps": {
+      "raws": [
+        "Fe3O4 NPs"
+      ],
+      "count": 3,
+      "n_papers": 3,
+      "category": null,
+      "family": "fe3o4nps",
+      "layer": "L0"
+    },
+    "fe3o4ptnps": {
+      "raws": [
+        "Fe3O4@Pt NPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3o4ptnps",
+      "layer": "L0"
+    },
+    "fe3o4qds": {
+      "raws": [
+        "Fe3O4 QDs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3o4qds",
+      "layer": "L0"
+    },
+    "fe3o5atp": {
+      "raws": [
+        "Fe3O5-ATP"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3o5atp",
+      "layer": "L0"
+    },
+    "fe3po428h2onfs": {
+      "raws": [
+        "Fe3(PO4)2·8H2O NFs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3po428h2onfs",
+      "layer": "L0"
+    },
+    "fe3po42oh2": {
+      "raws": [
+        "Fe3(PO4)2(OH)2"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe3po42oh2",
+      "layer": "L0"
+    },
+    "fe55nc": {
+      "raws": [
+        "Fe55-N-C"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fe55nc",
+      "layer": "L0"
+    },
+    "feacnh2uio66nps": {
+      "raws": [
+        "Fe-Ac-NH2-UiO-66 NPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "feacnh2uio66nps",
+      "layer": "L0"
+    },
+    "feampcps": {
+      "raws": [
+        "Fe-AMP CPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "feampcps",
+      "layer": "L0"
+    },
+    "febincsazyme": {
+      "raws": [
+        "FeBi-NC SAzyme"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "febincsazyme",
+      "layer": "L0"
+    },
+    "febnc": {
+      "raws": [
+        "FeBNC"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "febnc",
+      "layer": "L0"
+    },
+    "fecn800a": {
+      "raws": [
+        "Fe/CN-800-A"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "fecn800a",
+      "layer": "L0"
+    },
+    "fecoldh": {
+      "raws": [
+        "Fe-Co-LDH"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "fecoldh",
+      "layer": "L0"
+    },
+    "fecun6": {
+      "raws": [
+        "Fe-Cu-N6"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "fecun6",
+      "layer": "L0"
+    },
+    "feh3p2o8h2o": {
+      "raws": [
+        "FeH3P2O8•H2O"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "feh3p2o8h2o",
+      "layer": "L0"
+    },
+    "fehclnh2uio66nps": {
+      "raws": [
+        "Fe-HCl-NH2-UiO-66 NPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fehclnh2uio66nps",
+      "layer": "L0"
+    },
+    "femoov": {
+      "raws": [
+        "Fe-MoOv"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "femoov",
+      "layer": "L0"
+    },
+    "femsn": {
+      "raws": [
+        "Fe-MSN"
+      ],
+      "count": 4,
+      "n_papers": 2,
+      "category": null,
+      "family": "femsn",
+      "layer": "L0"
+    },
+    "fen4": {
+      "raws": [
+        "FeN 4"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "fen4",
+      "layer": "L0"
+    },
+    "fen4sacsheme": {
+      "raws": [
+        "FeN4 SACs-Heme"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fen4sacsheme",
+      "layer": "L0"
+    },
+    "fen5sacsheme": {
+      "raws": [
+        "FeN5 SACs-Heme"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fen5sacsheme",
+      "layer": "L0"
+    },
+    "fenc": {
+      "raws": [
+        "Fe-N-C",
+        "Fe-N/C",
+        "Fe/NC",
+        "FeNC"
+      ],
+      "count": 8,
+      "n_papers": 6,
+      "category": null,
+      "family": "fenc",
+      "layer": "L0"
+    },
+    "fencds": {
+      "raws": [
+        "Fe, N-CDs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fencds",
+      "layer": "L0"
+    },
+    "fencsazymes": {
+      "raws": [
+        "Fe-N-C SAzymes"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "fencsazymes",
+      "layer": "L0"
+    },
+    "fenps": {
+      "raws": [
+        "Fe NPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fenps",
+      "layer": "L0"
+    },
+    "feoohfeserineau": {
+      "raws": [
+        "FeOOH@Fe-Serine@Au"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "feoohfeserineau",
+      "layer": "L0"
+    },
+    "fepc": {
+      "raws": [
+        "FeP@C"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "fepc",
+      "layer": "L0"
+    },
+    "fepooh": {
+      "raws": [
+        "Fe₃(PO₄)₂(OH)₂"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "fepooh",
+      "layer": "L0"
+    },
+    "feptalloys": {
+      "raws": [
+        "Fe-Pt Alloys"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "feptalloys",
+      "layer": "L0"
+    },
+    "fes": {
+      "raws": [
+        "FeS"
+      ],
+      "count": 4,
+      "n_papers": 2,
+      "category": null,
+      "family": "fes",
+      "layer": "L0"
+    },
+    "fesa": {
+      "raws": [
+        "FeSA"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fesa",
+      "layer": "L0"
+    },
+    "fesaes": {
+      "raws": [
+        "Fe SAEs"
+      ],
+      "count": 5,
+      "n_papers": 1,
+      "category": null,
+      "family": "fesaes",
+      "layer": "L0"
+    },
+    "fesapt": {
+      "raws": [
+        "FeSA-Pt"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fesapt",
+      "layer": "L0"
+    },
+    "fese": {
+      "raws": [
+        "FeSe"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fese",
+      "layer": "L0"
+    },
+    "fesncsacs": {
+      "raws": [
+        "FeSNC SACs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fesncsacs",
+      "layer": "L0"
+    },
+    "fesxmos2rgo": {
+      "raws": [
+        "FeSx/MoS2@rGO"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fesxmos2rgo",
+      "layer": "L0"
+    },
+    "fhnps": {
+      "raws": [
+        "FHNPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "fhnps",
+      "layer": "L0"
+    },
+    "fibbiaunps": {
+      "raws": [
+        "Fib-Bi–Au NPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "fibbiaunps",
+      "layer": "L0"
+    },
+    "freemnps": {
+      "raws": [
+        "Free MNPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "freemnps",
+      "layer": "L0"
+    },
+    "freeptnps": {
+      "raws": [
+        "Free Pt NPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "freeptnps",
+      "layer": "L0"
+    },
+    "glutamicacidicfe3o4": {
+      "raws": [
+        "Glutamic acidic-Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "glutamicacidicfe3o4",
+      "layer": "L0"
+    },
+    "glutarninefe3o4": {
+      "raws": [
+        "Glutarnine-Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "glutarninefe3o4",
+      "layer": "L0"
+    },
+    "glycinefe3o4": {
+      "raws": [
+        "Glycine-Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "glycinefe3o4",
+      "layer": "L0"
+    },
+    "gnc900": {
+      "raws": [
+        "GNC-900"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "gnc900",
+      "layer": "L0"
+    },
+    "gofe3o4": {
+      "raws": [
+        "GO–Fe3O4"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "gofe3o4",
+      "layer": "L0"
+    },
+    "goldnanoparticles": {
+      "raws": [
+        "gold nanoparticles"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "goldnanoparticles",
+      "layer": "L0"
+    },
+    "goldplatinumnanorods": {
+      "raws": [
+        "gold@platinum nanorods"
+      ],
+      "count": 5,
+      "n_papers": 1,
+      "category": null,
+      "family": "goldplatinumnanorods",
+      "layer": "L0"
+    },
+    "gomnp0": {
+      "raws": [
+        "GO_MNP 0"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "gomnp0",
+      "layer": "L0"
+    },
+    "gomnp0pt0": {
+      "raws": [
+        "GO_MNP 0–Pt 0"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "gomnp0pt0",
+      "layer": "L0"
+    },
+    "gomnp30": {
+      "raws": [
+        "GO_MNP-30"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "gomnp30",
+      "layer": "L0"
+    },
+    "gomnp30pt0": {
+      "raws": [
+        "GO_MNP-30–Pt 0"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "gomnp30pt0",
+      "layer": "L0"
+    },
+    "gopt0": {
+      "raws": [
+        "GO_Pt 0"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "gopt0",
+      "layer": "L0"
+    },
+    "got10ptnps": {
+      "raws": [
+        "GO-T10-PtNPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "got10ptnps",
+      "layer": "L0"
+    },
+    "got20ptnps": {
+      "raws": [
+        "GO-T20-PtNPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "got20ptnps",
+      "layer": "L0"
+    },
+    "got30ptnps": {
+      "raws": [
+        "GO-T30-PtNPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "got30ptnps",
+      "layer": "L0"
+    },
+    "got40ptnps": {
+      "raws": [
+        "GO-T40-PtNPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "got40ptnps",
+      "layer": "L0"
+    },
+    "gsfaunps": {
+      "raws": [
+        "GSF@AuNPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "gsfaunps",
+      "layer": "L0"
+    },
+    "gshtreatedpegshylatedcuhcf": {
+      "raws": [
+        "GSH treated PEG-SHylated Cu-HCF"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "gshtreatedpegshylatedcuhcf",
+      "layer": "L0"
+    },
+    "h2o2ceo2": {
+      "raws": [
+        "H2O2-CeO2"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "h2o2ceo2",
+      "layer": "L0"
+    },
+    "h2tcppfe2o3": {
+      "raws": [
+        "(H2TCPP-γ-Fe2O3)"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "h2tcppfe2o3",
+      "layer": "L0"
+    },
+    "h2tcppnio": {
+      "raws": [
+        "H2TCPP-NiO"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "h2tcppnio",
+      "layer": "L0"
+    },
+    "h2tcppzns": {
+      "raws": [
+        "H2TCPP-ZnS"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "h2tcppzns",
+      "layer": "L0"
+    },
+    "hbpgaunps": {
+      "raws": [
+        "HBPG-AuNPs"
+      ],
+      "count": 5,
+      "n_papers": 1,
+      "category": null,
+      "family": "hbpgaunps",
+      "layer": "L0"
+    },
+    "hccfnco3o4": {
+      "raws": [
+        "HccFn(Co3O4)"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "hccfnco3o4",
+      "layer": "L0"
+    },
+    "hccfnfe3o4": {
+      "raws": [
+        "HccFn(Fe3O4)"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "hccfnfe3o4",
+      "layer": "L0"
+    },
+    "hcsptnps": {
+      "raws": [
+        "HCS@Pt NPs"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "hcsptnps",
+      "layer": "L0"
+    },
+    "hcusncs": {
+      "raws": [
+        "h-CuS NCs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "hcusncs",
+      "layer": "L0"
+    },
+    "hg2citagnps": {
+      "raws": [
+        "Hg2+ Cit–AgNPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "hg2citagnps",
+      "layer": "L0"
+    },
+    "hisauncs": {
+      "raws": [
+        "His@AuNCs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "hisauncs",
+      "layer": "L0"
+    },
+    "hisauncsg": {
+      "raws": [
+        "His@AuNCs/G"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "hisauncsg",
+      "layer": "L0"
+    },
+    "hisauncsgo": {
+      "raws": [
+        "His@AuNCs/GO"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "hisauncsgo",
+      "layer": "L0"
+    },
+    "hisauncsrgo": {
+      "raws": [
+        "His@AuNCs/RGO"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "hisauncsrgo",
+      "layer": "L0"
+    },
+    "hisfe3o4": {
+      "raws": [
+        "His-Fe3O4"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "hisfe3o4",
+      "layer": "L0"
+    },
+    "hrgoau34": {
+      "raws": [
+        "H–rGO–Au34"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "hrgoau34",
+      "layer": "L0"
+    },
+    "hsptnps": {
+      "raws": [
+        "HS-PtNPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "hsptnps",
+      "layer": "L0"
+    },
+    "hybridnickelmolybdenumbimetallicsulfidenanozymeslnimos2": {
+      "raws": [
+        "Hybrid nickel‑molybdenum bimetallic \nsulfide nanozymes\n（ L-NiMoS2）"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "hybridnickelmolybdenumbimetallicsulfidenanozymeslnimos2",
+      "layer": "L0"
+    },
+    "hydrothermalcevo4": {
+      "raws": [
+        "hydrothermal CeVO4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "hydrothermalcevo4",
+      "layer": "L0"
+    },
+    "irc": {
+      "raws": [
+        "Ir/C"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "irc",
+      "layer": "L0"
+    },
+    "iriiigo": {
+      "raws": [
+        "Ir(III)/GO"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "iriiigo",
+      "layer": "L0"
+    },
+    "irnc": {
+      "raws": [
+        "Ir/NC"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "irnc",
+      "layer": "L0"
+    },
+    "irncs": {
+      "raws": [
+        "IrNCs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "irncs",
+      "layer": "L0"
+    },
+    "irnps": {
+      "raws": [
+        "IrNPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "irnps",
+      "layer": "L0"
+    },
+    "isoleucinefe3o4": {
+      "raws": [
+        "Isoleucine-Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "isoleucinefe3o4",
+      "layer": "L0"
+    },
+    "k5pv2mo10o40": {
+      "raws": [
+        "K5PV2Mo10O40"
+      ],
+      "count": 5,
+      "n_papers": 1,
+      "category": null,
+      "family": "k5pv2mo10o40",
+      "layer": "L0"
+    },
+    "la05sr05feo3": {
+      "raws": [
+        "La0.5Sr0.5FeO3-δ"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "la05sr05feo3",
+      "layer": "L0"
+    },
+    "la05sr05mno3": {
+      "raws": [
+        "La0.5Sr0.5MnO3-δ"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "la05sr05mno3",
+      "layer": "L0"
+    },
+    "lacoo3": {
+      "raws": [
+        "LaCoO3-δ"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "lacoo3",
+      "layer": "L0"
+    },
+    "lamno3": {
+      "raws": [
+        "LaMnO3-δ"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "lamno3",
+      "layer": "L0"
+    },
+    "lamno3nanofibers": {
+      "raws": [
+        "LaMnO3+δ nanofibers"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "lamno3nanofibers",
+      "layer": "L0"
+    },
+    "leucinefe3o4": {
+      "raws": [
+        "Leucine-Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "leucinefe3o4",
+      "layer": "L0"
+    },
+    "lysinefe3o4": {
+      "raws": [
+        "Lysine-Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "lysinefe3o4",
+      "layer": "L0"
+    },
+    "metalfreecarbonnanozymesqauz1": {
+      "raws": [
+        "Metal-free carbon nanozymes\n（QAU-Z1）"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "metalfreecarbonnanozymesqauz1",
+      "layer": "L0"
+    },
+    "methioninefe3o4": {
+      "raws": [
+        "Methionine-Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "methioninefe3o4",
+      "layer": "L0"
+    },
+    "mfnp11": {
+      "raws": [
+        "MFNP1:1"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mfnp11",
+      "layer": "L0"
+    },
+    "mfnp21": {
+      "raws": [
+        "MFNP2:1"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mfnp21",
+      "layer": "L0"
+    },
+    "mfnp31": {
+      "raws": [
+        "MFNP3:1"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mfnp31",
+      "layer": "L0"
+    },
+    "mgfe2o4mnps": {
+      "raws": [
+        "MgFe2O4 MNPs"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "mgfe2o4mnps",
+      "layer": "L0"
+    },
+    "mil101cufe": {
+      "raws": [
+        "MIL-101(CuFe)"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mil101cufe",
+      "layer": "L0"
+    },
+    "mil101cufecd147": {
+      "raws": [
+        "MIL-101(CuFe)-CD147"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mil101cufecd147",
+      "layer": "L0"
+    },
+    "mil101fe": {
+      "raws": [
+        "MIL-101(Fe)"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mil101fe",
+      "layer": "L0"
+    },
+    "mil53feg4hemin": {
+      "raws": [
+        "MIL-53(Fe)/G4-hemin"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "mil53feg4hemin",
+      "layer": "L0"
+    },
+    "mipaupt": {
+      "raws": [
+        "MIP(AuPt)"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mipaupt",
+      "layer": "L0"
+    },
+    "mixedvalencestatecobalt": {
+      "raws": [
+        "mixed-valence-state cobalt"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mixedvalencestatecobalt",
+      "layer": "L0"
+    },
+    "mn2o3": {
+      "raws": [
+        "Mn2O3"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mn2o3",
+      "layer": "L0"
+    },
+    "mn3o4": {
+      "raws": [
+        "Mn3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mn3o4",
+      "layer": "L0"
+    },
+    "mn3o4nfs": {
+      "raws": [
+        "Mn3O4 NFs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mn3o4nfs",
+      "layer": "L0"
+    },
+    "mn3o4nps": {
+      "raws": [
+        "Mn3O4 NPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mn3o4nps",
+      "layer": "L0"
+    },
+    "mncdte1": {
+      "raws": [
+        "Mn–CdTe(1)"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mncdte1",
+      "layer": "L0"
+    },
+    "mncdte2": {
+      "raws": [
+        "Mn–CdTe(2)"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mncdte2",
+      "layer": "L0"
+    },
+    "mncdte3": {
+      "raws": [
+        "Mn–CdTe(3)"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mncdte3",
+      "layer": "L0"
+    },
+    "mnco2o4": {
+      "raws": [
+        "MnCo2O4"
+      ],
+      "count": 2,
+      "n_papers": 2,
+      "category": null,
+      "family": "mnco2o4",
+      "layer": "L0"
+    },
+    "mncons": {
+      "raws": [
+        "Mn-Co NS"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mncons",
+      "layer": "L0"
+    },
+    "mndpasio2ilpeg": {
+      "raws": [
+        "Mndpa@SiO2@IL–PEG"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mndpasio2ilpeg",
+      "layer": "L0"
+    },
+    "mnfe2o4": {
+      "raws": [
+        "MnFe2O4"
+      ],
+      "count": 2,
+      "n_papers": 2,
+      "category": null,
+      "family": "mnfe2o4",
+      "layer": "L0"
+    },
+    "mno2": {
+      "raws": [
+        "MnO2",
+        "α-MnO2",
+        "β-MnO2",
+        "γ-MnO2"
+      ],
+      "count": 8,
+      "n_papers": 5,
+      "category": null,
+      "family": "mno2",
+      "layer": "L0"
+    },
+    "mno2bsa": {
+      "raws": [
+        "MnO2-BSA"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "mno2bsa",
+      "layer": "L0"
+    },
+    "mno2ga": {
+      "raws": [
+        "MnO2 + GA"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mno2ga",
+      "layer": "L0"
+    },
+    "mno2nanosheet": {
+      "raws": [
+        "MnO2 nanosheet"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mno2nanosheet",
+      "layer": "L0"
+    },
+    "mno2nanostick": {
+      "raws": [
+        "MnO2 nanostick"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mno2nanostick",
+      "layer": "L0"
+    },
+    "mno2nanowire": {
+      "raws": [
+        "MnO2 nanowire"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mno2nanowire",
+      "layer": "L0"
+    },
+    "mno2silk": {
+      "raws": [
+        "MnO2-Silk"
+      ],
+      "count": 5,
+      "n_papers": 1,
+      "category": null,
+      "family": "mno2silk",
+      "layer": "L0"
+    },
+    "mno2sphere": {
+      "raws": [
+        "MnO2  sphere"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mno2sphere",
+      "layer": "L0"
+    },
+    "mnoohnws": {
+      "raws": [
+        "γ-MnOOH NWs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mnoohnws",
+      "layer": "L0"
+    },
+    "mnoxms410": {
+      "raws": [
+        "MnOx MS-410"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mnoxms410",
+      "layer": "L0"
+    },
+    "mnoxms500": {
+      "raws": [
+        "MnOx MS-500"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mnoxms500",
+      "layer": "L0"
+    },
+    "mnoxnps": {
+      "raws": [
+        "MnOx NPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mnoxnps",
+      "layer": "L0"
+    },
+    "mnpg": {
+      "raws": [
+        "MNPG"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "mnpg",
+      "layer": "L0"
+    },
+    "mof818": {
+      "raws": [
+        "MOF-818"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "mof818",
+      "layer": "L0"
+    },
+    "mofco2fe": {
+      "raws": [
+        "MOF(Co/2Fe)"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "mofco2fe",
+      "layer": "L0"
+    },
+    "moo3": {
+      "raws": [
+        "MoO3"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "moo3",
+      "layer": "L0"
+    },
+    "mos2": {
+      "raws": [
+        "MoS2"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "mos2",
+      "layer": "L0"
+    },
+    "mos2cofe2o4": {
+      "raws": [
+        "MoS2-CoFe2O4"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "mos2cofe2o4",
+      "layer": "L0"
+    },
+    "mos2gssg": {
+      "raws": [
+        "MoS2-GSSG"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "mos2gssg",
+      "layer": "L0"
+    },
+    "mos2nanosheets": {
+      "raws": [
+        "MoS2 Nanosheets"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "mos2nanosheets",
+      "layer": "L0"
+    },
+    "mos2nss": {
+      "raws": [
+        "MoS2 NSs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "mos2nss",
+      "layer": "L0"
+    },
+    "mos2pt74ag26": {
+      "raws": [
+        "MoS2–Pt74Ag26"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "mos2pt74ag26",
+      "layer": "L0"
+    },
+    "mos2qds": {
+      "raws": [
+        "MoS2 QDs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "mos2qds",
+      "layer": "L0"
+    },
+    "mos2qdsgqds": {
+      "raws": [
+        "MoS2 QDs/GQDs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "mos2qdsgqds",
+      "layer": "L0"
+    },
+    "mosan": {
+      "raws": [
+        "Mo-SAN"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "mosan",
+      "layer": "L0"
+    },
+    "mru": {
+      "raws": [
+        "M-Ru"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "mru",
+      "layer": "L0"
+    },
+    "msnaunps": {
+      "raws": [
+        "MSN-AuNPs"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "msnaunps",
+      "layer": "L0"
+    },
+    "mvcm": {
+      "raws": [
+        "MVCM"
+      ],
+      "count": 2,
+      "n_papers": 2,
+      "category": null,
+      "family": "mvcm",
+      "layer": "L0"
+    },
+    "na455fepo42h045o": {
+      "raws": [
+        "Na4.55Fe(PO4)2H0.45O"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "na455fepo42h045o",
+      "layer": "L0"
+    },
+    "nacucys": {
+      "raws": [
+        "NACu-Cys"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "nacucys",
+      "layer": "L0"
+    },
+    "nakedfe3o4": {
+      "raws": [
+        "Naked-Fe3O4"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "nakedfe3o4",
+      "layer": "L0"
+    },
+    "nh2mil101": {
+      "raws": [
+        "NH2-MIL-101"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "nh2mil101",
+      "layer": "L0"
+    },
+    "nh2mil88bfe": {
+      "raws": [
+        "NH 2 -MIL-88B (Fe)"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "nh2mil88bfe",
+      "layer": "L0"
+    },
+    "nico2o4ms": {
+      "raws": [
+        "NiCo2O4 MS"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "nico2o4ms",
+      "layer": "L0"
+    },
+    "nico2o4pvp": {
+      "raws": [
+        "NiCo2O4@PVP"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "nico2o4pvp",
+      "layer": "L0"
+    },
+    "nife2o4": {
+      "raws": [
+        "NiFe2O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "nife2o4",
+      "layer": "L0"
+    },
+    "nife2o4mnps": {
+      "raws": [
+        "NiFe2O4 MNPs"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "nife2o4mnps",
+      "layer": "L0"
+    },
+    "nio": {
+      "raws": [
+        "NiO"
+      ],
+      "count": 3,
+      "n_papers": 2,
+      "category": null,
+      "family": "nio",
+      "layer": "L0"
+    },
+    "nioh2nfs": {
+      "raws": [
+        "Ni(OH)2 NFs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "nioh2nfs",
+      "layer": "L0"
+    },
+    "nionfs": {
+      "raws": [
+        "NiO NFs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "nionfs",
+      "layer": "L0"
+    },
+    "nipdhnps": {
+      "raws": [
+        "NiPd hNPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "nipdhnps",
+      "layer": "L0"
+    },
+    "nlmncao2": {
+      "raws": [
+        "NL-MnCaO2"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "nlmncao2",
+      "layer": "L0"
+    },
+    "nmctptta": {
+      "raws": [
+        "NMCTP-TTA"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "nmctptta",
+      "layer": "L0"
+    },
+    "no2mil101": {
+      "raws": [
+        "­NO2-MIL-101"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "no2mil101",
+      "layer": "L0"
+    },
+    "npcnss3": {
+      "raws": [
+        "N-PCNSs-3"
+      ],
+      "count": 4,
+      "n_papers": 1,
+      "category": null,
+      "family": "npcnss3",
+      "layer": "L0"
+    },
+    "npcnss5": {
+      "raws": [
+        "N-PCNSs-5"
+      ],
+      "count": 4,
+      "n_papers": 1,
+      "category": null,
+      "family": "npcnss5",
+      "layer": "L0"
+    },
+    "ovmn3o4nfs": {
+      "raws": [
+        "OV-Mn3O4 NFs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ovmn3o4nfs",
+      "layer": "L0"
+    },
+    "pbmwcnt": {
+      "raws": [
+        "PB/MWCNT"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "pbmwcnt",
+      "layer": "L0"
+    },
+    "pbnps": {
+      "raws": [
+        "PBNPs"
+      ],
+      "count": 4,
+      "n_papers": 1,
+      "category": null,
+      "family": "pbnps",
+      "layer": "L0"
+    },
+    "pcnss": {
+      "raws": [
+        "PCNSs"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "pcnss",
+      "layer": "L0"
+    },
+    "pdafe3o4": {
+      "raws": [
+        "PDA/Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "pdafe3o4",
+      "layer": "L0"
+    },
+    "pdcubeceo2": {
+      "raws": [
+        "Pd cube@CeO2"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "pdcubeceo2",
+      "layer": "L0"
+    },
+    "pdcubes": {
+      "raws": [
+        "Pd cubes"
+      ],
+      "count": 4,
+      "n_papers": 2,
+      "category": null,
+      "family": "pdcubes",
+      "layer": "L0"
+    },
+    "pdfe2o3": {
+      "raws": [
+        "Pd@γFe2O3"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "pdfe2o3",
+      "layer": "L0"
+    },
+    "pdircoreshell": {
+      "raws": [
+        "Pd-Ir core-shell"
+      ],
+      "count": 5,
+      "n_papers": 1,
+      "category": null,
+      "family": "pdircoreshell",
+      "layer": "L0"
+    },
+    "pdnanocrystals": {
+      "raws": [
+        "Pd Nanocrystals"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "pdnanocrystals",
+      "layer": "L0"
+    },
+    "pdnpsgns": {
+      "raws": [
+        "PdNPs/GNs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "pdnpsgns",
+      "layer": "L0"
+    },
+    "pdptcoreframenanodendrities": {
+      "raws": [
+        "Pd@Pt core–frame nanodendrities"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "pdptcoreframenanodendrities",
+      "layer": "L0"
+    },
+    "pdptnws": {
+      "raws": [
+        "Pd/Pt NWs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "pdptnws",
+      "layer": "L0"
+    },
+    "pdrgo": {
+      "raws": [
+        "Pd/rGO"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "pdrgo",
+      "layer": "L0"
+    },
+    "pegpdsazymes": {
+      "raws": [
+        "PEG-Pd SAzymes"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "pegpdsazymes",
+      "layer": "L0"
+    },
+    "pegshylatedcuhcf": {
+      "raws": [
+        "PEG-SHylated Cu-HCF"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "pegshylatedcuhcf",
+      "layer": "L0"
+    },
+    "phenylalaninefe3o4": {
+      "raws": [
+        "Phenylalanine-Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "phenylalaninefe3o4",
+      "layer": "L0"
+    },
+    "photosensitizedmof": {
+      "raws": [
+        "photosensitized MOF"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "photosensitizedmof",
+      "layer": "L0"
+    },
+    "pmcs": {
+      "raws": [
+        "PMCS"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "pmcs",
+      "layer": "L0"
+    },
+    "ppycoonionts": {
+      "raws": [
+        "PPy@CoO/NiO NTs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ppycoonionts",
+      "layer": "L0"
+    },
+    "prolinefe3o4": {
+      "raws": [
+        "Proline-Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "prolinefe3o4",
+      "layer": "L0"
+    },
+    "proptnps": {
+      "raws": [
+        "Pro-PtNPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "proptnps",
+      "layer": "L0"
+    },
+    "psaupb": {
+      "raws": [
+        "PS@Au@PB"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "psaupb",
+      "layer": "L0"
+    },
+    "pssaupd02ptnrs": {
+      "raws": [
+        "PSS-Au@Pd0.2Pt NRs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "pssaupd02ptnrs",
+      "layer": "L0"
+    },
+    "pssaupdptnrs": {
+      "raws": [
+        "PSS-Au@PdPt NRs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "pssaupdptnrs",
+      "layer": "L0"
+    },
+    "pssaupt016nrs": {
+      "raws": [
+        "PSS-Au@Pt0.16 NRs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "pssaupt016nrs",
+      "layer": "L0"
+    },
+    "pt": {
+      "raws": [
+        "Pt"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "pt",
+      "layer": "L0"
+    },
+    "pt01aunps": {
+      "raws": [
+        "Pt0.1/Au NPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "pt01aunps",
+      "layer": "L0"
+    },
+    "pt20": {
+      "raws": [
+        "Pt20"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "pt20",
+      "layer": "L0"
+    },
+    "pt48pd52": {
+      "raws": [
+        "Pt48Pd52"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "pt48pd52",
+      "layer": "L0"
+    },
+    "pt48pd52andfe3o4mixture": {
+      "raws": [
+        "Pt48Pd52 and Fe3O4 mixture"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "pt48pd52andfe3o4mixture",
+      "layer": "L0"
+    },
+    "pt48pd52fe3o4dumbbell": {
+      "raws": [
+        "Pt48Pd52-Fe3O4 dumbbell"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "pt48pd52fe3o4dumbbell",
+      "layer": "L0"
+    },
+    "pt5": {
+      "raws": [
+        "Pt5"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "pt5",
+      "layer": "L0"
+    },
+    "ptclusters": {
+      "raws": [
+        "Pt clusters"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptclusters",
+      "layer": "L0"
+    },
+    "ptdecoratedbn": {
+      "raws": [
+        "Pt-Decorated BN"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptdecoratedbn",
+      "layer": "L0"
+    },
+    "ptfe": {
+      "raws": [
+        "PtFe"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptfe",
+      "layer": "L0"
+    },
+    "ptfefe3o4": {
+      "raws": [
+        "PtFe@Fe3O4"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptfefe3o4",
+      "layer": "L0"
+    },
+    "pthcsnps": {
+      "raws": [
+        "Pt@HCS NPs"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "pthcsnps",
+      "layer": "L0"
+    },
+    "pthollownanodendrites": {
+      "raws": [
+        "Pt hollow nanodendrites"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "pthollownanodendrites",
+      "layer": "L0"
+    },
+    "ptnanoparticle": {
+      "raws": [
+        "Pt nanoparticle"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptnanoparticle",
+      "layer": "L0"
+    },
+    "ptnanoparticles": {
+      "raws": [
+        "Pt nanoparticles"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptnanoparticles",
+      "layer": "L0"
+    },
+    "ptncs": {
+      "raws": [
+        "Pt NCs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptncs",
+      "layer": "L0"
+    },
+    "ptnfsgns": {
+      "raws": [
+        "PtNFs/GNs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptnfsgns",
+      "layer": "L0"
+    },
+    "ptnp": {
+      "raws": [
+        "PtNP"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptnp",
+      "layer": "L0"
+    },
+    "ptnpa10": {
+      "raws": [
+        "PtNP-A10"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptnpa10",
+      "layer": "L0"
+    },
+    "ptnpc10": {
+      "raws": [
+        "PtNP-C10"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptnpc10",
+      "layer": "L0"
+    },
+    "ptnpg10": {
+      "raws": [
+        "PtNP-G10"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptnpg10",
+      "layer": "L0"
+    },
+    "ptnps": {
+      "raws": [
+        "Pt NPs"
+      ],
+      "count": 8,
+      "n_papers": 5,
+      "category": null,
+      "family": "ptnps",
+      "layer": "L0"
+    },
+    "ptnpsgo": {
+      "raws": [
+        "PtNPs/GO"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptnpsgo",
+      "layer": "L0"
+    },
+    "ptnpsmno2": {
+      "raws": [
+        "PtNPs@MnO2"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptnpsmno2",
+      "layer": "L0"
+    },
+    "ptnpsmwcnts": {
+      "raws": [
+        "PtNPs@MWCNTs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptnpsmwcnts",
+      "layer": "L0"
+    },
+    "ptnpsrgo": {
+      "raws": [
+        "PtNPs/rGO"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptnpsrgo",
+      "layer": "L0"
+    },
+    "ptnpt10": {
+      "raws": [
+        "PtNP-T10"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptnpt10",
+      "layer": "L0"
+    },
+    "ptpdnasgns": {
+      "raws": [
+        "PtPdNAs/GNs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptpdnasgns",
+      "layer": "L0"
+    },
+    "ptpdndsgns": {
+      "raws": [
+        "PtPdNDs/GNs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptpdndsgns",
+      "layer": "L0"
+    },
+    "ptpdnfsgns": {
+      "raws": [
+        "Pt@PdNFs/GNs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptpdnfsgns",
+      "layer": "L0"
+    },
+    "ptptft": {
+      "raws": [
+        "Pt(Pt-Ft)"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "ptptft",
+      "layer": "L0"
+    },
+    "pttssazyme": {
+      "raws": [
+        "PtTS-SAzyme"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "pttssazyme",
+      "layer": "L0"
+    },
+    "pvpirnps": {
+      "raws": [
+        "PVP-IrNPs"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "pvpirnps",
+      "layer": "L0"
+    },
+    "rgofes2": {
+      "raws": [
+        "rGO@FeS2"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "rgofes2",
+      "layer": "L0"
+    },
+    "rgopdaceo2": {
+      "raws": [
+        "rGO@PDA@CeO2"
+      ],
+      "count": 4,
+      "n_papers": 1,
+      "category": null,
+      "family": "rgopdaceo2",
+      "layer": "L0"
+    },
+    "rgopdaceo2atp": {
+      "raws": [
+        "rGO@PDA@CeO2/ATP"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "rgopdaceo2atp",
+      "layer": "L0"
+    },
+    "rgopdaceo2atpaptamer": {
+      "raws": [
+        "rGO@PDA@CeO2/ATP/aptamer"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "rgopdaceo2atpaptamer",
+      "layer": "L0"
+    },
+    "rhn4": {
+      "raws": [
+        "RhN4"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "rhn4",
+      "layer": "L0"
+    },
+    "rmnco2o4": {
+      "raws": [
+        "R-MnCo2O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "rmnco2o4",
+      "layer": "L0"
+    },
+    "ruhamos2": {
+      "raws": [
+        "Ru@HA-MoS2"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ruhamos2",
+      "layer": "L0"
+    },
+    "runps": {
+      "raws": [
+        "Ru NPs",
+        "RuNPs"
+      ],
+      "count": 5,
+      "n_papers": 2,
+      "category": null,
+      "family": "runps",
+      "layer": "L0"
+    },
+    "ruo2": {
+      "raws": [
+        "RuO2"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "ruo2",
+      "layer": "L0"
+    },
+    "sacon3": {
+      "raws": [
+        "SA-CoN3"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "sacon3",
+      "layer": "L0"
+    },
+    "sacon4": {
+      "raws": [
+        "SA-CoN4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "sacon4",
+      "layer": "L0"
+    },
+    "safebgc3n4": {
+      "raws": [
+        "SA Fe/B-g-C3N4"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "safebgc3n4",
+      "layer": "L0"
+    },
+    "safegc3n4": {
+      "raws": [
+        "SA Fe/g-C3N4"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "safegc3n4",
+      "layer": "L0"
+    },
+    "safeng": {
+      "raws": [
+        "SA-Fe/NG"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "safeng",
+      "layer": "L0"
+    },
+    "serinefe3o4": {
+      "raws": [
+        "Serine -Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "serinefe3o4",
+      "layer": "L0"
+    },
+    "sisallikeco3o4": {
+      "raws": [
+        "Sisal-like Co3O4"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "sisallikeco3o4",
+      "layer": "L0"
+    },
+    "so4ceo2nrsso4ceo2nrs": {
+      "raws": [
+        "SO4/CeO2 NRs(SO4处理的CeO2 NRs)"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "so4ceo2nrsso4ceo2nrs",
+      "layer": "L0"
+    },
+    "solvothermalcevo4": {
+      "raws": [
+        "solvothermal CeVO4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "solvothermalcevo4",
+      "layer": "L0"
+    },
+    "sonochemicalcevo4": {
+      "raws": [
+        "sonochemical CeVO4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "sonochemicalcevo4",
+      "layer": "L0"
+    },
+    "srfeo3": {
+      "raws": [
+        "SrFeO3-δ"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "srfeo3",
+      "layer": "L0"
+    },
+    "srtio3nanosheets": {
+      "raws": [
+        "SrTiO3 nanosheets"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "srtio3nanosheets",
+      "layer": "L0"
+    },
+    "ssdnaaunps": {
+      "raws": [
+        "ss-DNA–AuNPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "ssdnaaunps",
+      "layer": "L0"
+    },
+    "threoninefe3o4": {
+      "raws": [
+        "Threonine -Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "threoninefe3o4",
+      "layer": "L0"
+    },
+    "tinnps": {
+      "raws": [
+        "TiN NPS"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "tinnps",
+      "layer": "L0"
+    },
+    "tio2canps": {
+      "raws": [
+        "TiO2−CA NPs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "tio2canps",
+      "layer": "L0"
+    },
+    "tio2cqds": {
+      "raws": [
+        "TiO2/C-QDs"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "tio2cqds",
+      "layer": "L0"
+    },
+    "tio2nanotubearrays": {
+      "raws": [
+        "TiO2 nanotube arrays"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "tio2nanotubearrays",
+      "layer": "L0"
+    },
+    "tio2nps": {
+      "raws": [
+        "TiO2 NPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "tio2nps",
+      "layer": "L0"
+    },
+    "tmip": {
+      "raws": [
+        "T-MIP"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "tmip",
+      "layer": "L0"
+    },
+    "tmipneg": {
+      "raws": [
+        "T-MIPneg"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "tmipneg",
+      "layer": "L0"
+    },
+    "tryptophanfe3o4": {
+      "raws": [
+        "Tryptophan -Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "tryptophanfe3o4",
+      "layer": "L0"
+    },
+    "tyrosinefe3o4": {
+      "raws": [
+        "Tyrosine-Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "tyrosinefe3o4",
+      "layer": "L0"
+    },
+    "v2o3omc": {
+      "raws": [
+        "V2O3-OMC"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "v2o3omc",
+      "layer": "L0"
+    },
+    "v2o5": {
+      "raws": [
+        "V2O5"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "v2o5",
+      "layer": "L0"
+    },
+    "v2o5nanobelts": {
+      "raws": [
+        "V2O5 Nanobelts"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "v2o5nanobelts",
+      "layer": "L0"
+    },
+    "v2o5pdamno2": {
+      "raws": [
+        "V2O5@pDA@MnO2"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "v2o5pdamno2",
+      "layer": "L0"
+    },
+    "v6o13nanotextiles": {
+      "raws": [
+        "V6O13 nanotextiles"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "v6o13nanotextiles",
+      "layer": "L0"
+    },
+    "v6o13rgo": {
+      "raws": [
+        "V6O13–rGO"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "v6o13rgo",
+      "layer": "L0"
+    },
+    "v6o13rgofx0002": {
+      "raws": [
+        "V6O13–rGO + F_x0002_"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "v6o13rgofx0002",
+      "layer": "L0"
+    },
+    "valinefe3o4": {
+      "raws": [
+        "Valine -Fe3O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "valinefe3o4",
+      "layer": "L0"
+    },
+    "vanadiumoxide": {
+      "raws": [
+        "vanadium oxide"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "vanadiumoxide",
+      "layer": "L0"
+    },
+    "vn4": {
+      "raws": [
+        "VN4"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "family": "vn4",
+      "layer": "L0"
+    },
+    "vo2a": {
+      "raws": [
+        "VO2(A)"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "vo2a",
+      "layer": "L0"
+    },
+    "vo2b": {
+      "raws": [
+        "VO2 (B)"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "vo2b",
+      "layer": "L0"
+    },
+    "voxnanoflakes": {
+      "raws": [
+        "VOx nanoflakes"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "voxnanoflakes",
+      "layer": "L0"
+    },
+    "wcnrs": {
+      "raws": [
+        "WC NRs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "wcnrs",
+      "layer": "L0"
+    },
+    "ws2": {
+      "raws": [
+        "WS2"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ws2",
+      "layer": "L0"
+    },
+    "ws2agncs": {
+      "raws": [
+        "WS2 + Ag NCs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "ws2agncs",
+      "layer": "L0"
+    },
+    "zif67": {
+      "raws": [
+        "ZIF-67"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "zif67",
+      "layer": "L0"
+    },
+    "znbnc": {
+      "raws": [
+        "ZnBNC"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "znbnc",
+      "layer": "L0"
+    },
+    "zncuo": {
+      "raws": [
+        "Zn-CuO"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "zncuo",
+      "layer": "L0"
+    },
+    "znfe2o4": {
+      "raws": [
+        "ZnFe2O4"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "znfe2o4",
+      "layer": "L0"
+    },
+    "znfe2o4mnps": {
+      "raws": [
+        "ZnFe2O4 MNPs"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "family": "znfe2o4mnps",
+      "layer": "L0"
+    },
+    "zro2": {
+      "raws": [
+        "ZrO2"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "family": "zro2",
+      "layer": "L0"
+    }
+  },
+  "activities": {
+    "ascorbate peroxidase": {
+      "raws": [
+        "ascorbate peroxidase"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "catalase": {
+      "raws": [
+        "catalase"
+      ],
+      "count": 49,
+      "n_papers": 26,
+      "category": null,
+      "layer": "L0"
+    },
+    "glutathione peroxidase": {
+      "raws": [
+        "glutathione peroxidase"
+      ],
+      "count": 8,
+      "n_papers": 4,
+      "category": null,
+      "layer": "L0"
+    },
+    "haloperoxidase": {
+      "raws": [
+        "haloperoxidase"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "hydrolase": {
+      "raws": [
+        "hydrolase"
+      ],
+      "count": 41,
+      "n_papers": 4,
+      "category": null,
+      "layer": "L0"
+    },
+    "oxidase": {
+      "raws": [
+        "oxidase"
+      ],
+      "count": 219,
+      "n_papers": 115,
+      "category": null,
+      "layer": "L0"
+    },
+    "peroxidase": {
+      "raws": [
+        "peroxidase"
+      ],
+      "count": 672,
+      "n_papers": 215,
+      "category": null,
+      "layer": "L0"
+    },
+    "pod": {
+      "raws": [
+        "pod"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "sod": {
+      "raws": [
+        "sod"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "superoxide dismutase": {
+      "raws": [
+        "superoxide dismutase"
+      ],
+      "count": 4,
+      "n_papers": 2,
+      "category": null,
+      "layer": "L0"
+    }
+  },
+  "substrates": {
+    "24dp": {
+      "raws": [
+        "2,4-DP"
+      ],
+      "count": 2,
+      "n_papers": 2,
+      "category": null,
+      "layer": "L0"
+    },
+    "35dtbc": {
+      "raws": [
+        "3,5-DTBC"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "4npa": {
+      "raws": [
+        "4-NPA"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "aa": {
+      "raws": [
+        "AA"
+      ],
+      "count": 7,
+      "n_papers": 3,
+      "category": null,
+      "layer": "L0"
+    },
+    "abts": {
+      "raws": [
+        "ABTS"
+      ],
+      "count": 30,
+      "n_papers": 15,
+      "category": null,
+      "layer": "L0"
+    },
+    "ar": {
+      "raws": [
+        "AR"
+      ],
+      "count": 21,
+      "n_papers": 10,
+      "category": null,
+      "layer": "L0"
+    },
+    "asa": {
+      "raws": [
+        "AsA"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "bapna": {
+      "raws": [
+        "BAPNA"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "bnah": {
+      "raws": [
+        "BNAH"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "br": {
+      "raws": [
+        "Br"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "catechol": {
+      "raws": [
+        "catechol"
+      ],
+      "count": 2,
+      "n_papers": 2,
+      "category": null,
+      "layer": "L0"
+    },
+    "cytochromec": {
+      "raws": [
+        "cytochrome c"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "dab": {
+      "raws": [
+        "DAB"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "dopa": {
+      "raws": [
+        "DOPA"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "dopamine": {
+      "raws": [
+        "dopamine"
+      ],
+      "count": 7,
+      "n_papers": 3,
+      "category": null,
+      "layer": "L0"
+    },
+    "glucose": {
+      "raws": [
+        "glucose"
+      ],
+      "count": 12,
+      "n_papers": 8,
+      "category": null,
+      "layer": "L0"
+    },
+    "gsh": {
+      "raws": [
+        "GSH"
+      ],
+      "count": 11,
+      "n_papers": 7,
+      "category": null,
+      "layer": "L0"
+    },
+    "h202": {
+      "raws": [
+        "H202"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "h2o2": {
+      "raws": [
+        "H2O2"
+      ],
+      "count": 376,
+      "n_papers": 210,
+      "category": null,
+      "layer": "L0"
+    },
+    "hpnp": {
+      "raws": [
+        "HPNP"
+      ],
+      "count": 33,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "ldopa": {
+      "raws": [
+        "L-dopa"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "ltyrosinamide": {
+      "raws": [
+        "L -tyrosinamide"
+      ],
+      "count": 5,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "naa": {
+      "raws": [
+        "NaA"
+      ],
+      "count": 5,
+      "n_papers": 2,
+      "category": null,
+      "layer": "L0"
+    },
+    "nadh": {
+      "raws": [
+        "NADH"
+      ],
+      "count": 2,
+      "n_papers": 2,
+      "category": null,
+      "layer": "L0"
+    },
+    "nh4br": {
+      "raws": [
+        "NH4Br"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "opd": {
+      "raws": [
+        "OPD"
+      ],
+      "count": 28,
+      "n_papers": 14,
+      "category": null,
+      "layer": "L0"
+    },
+    "pr": {
+      "raws": [
+        "PR"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "pyrogallol": {
+      "raws": [
+        "pyrogallol"
+      ],
+      "count": 5,
+      "n_papers": 3,
+      "category": null,
+      "layer": "L0"
+    },
+    "quercetin": {
+      "raws": [
+        "quercetin"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "sodiumlascorbate": {
+      "raws": [
+        "sodium L-ascorbate"
+      ],
+      "count": 3,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "th": {
+      "raws": [
+        "TH"
+      ],
+      "count": 1,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    },
+    "tmb": {
+      "raws": [
+        "TMB"
+      ],
+      "count": 425,
+      "n_papers": 249,
+      "category": null,
+      "layer": "L0"
+    },
+    "urea": {
+      "raws": [
+        "urea"
+      ],
+      "count": 2,
+      "n_papers": 1,
+      "category": null,
+      "layer": "L0"
+    }
+  },
+  "llm_applied": false,
+  "llm_provider": null
+}
