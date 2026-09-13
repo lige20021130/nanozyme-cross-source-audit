@@ -1,0 +1,36 @@
+{
+  "papers": 1950,
+  "entries": 5027,
+  "metric": "km_mm",
+  "n_conflict_clusters": 166,
+  "atlas_png": [
+    "fe3o4--peroxidase--TMB--km_mm--c01.png",
+    "ceo2--oxidase--TMB--km_mm--c02.png",
+    "fe3o4--peroxidase--H2O2--km_mm--c03.png",
+    "fe2o3--peroxidase--H2O2--km_mm--c04.png",
+    "fe3o4--peroxidase--TMB--km_mm--c05.png",
+    "afe2o3--peroxidase--TMB--km_mm--c06.png",
+    "pt--peroxidase--TMB--km_mm--c07.png",
+    "ceo2--oxidase--ABTS--km_mm--c08.png",
+    "fe2o3--peroxidase--TMB--km_mm--c09.png",
+    "fe3o4--peroxidase--H2O2--km_mm--c10.png",
+    "co3o4--peroxidase--H2O2--km_mm--c11.png",
+    "co3o4--peroxidase--TMB--km_mm--c12.png"
+  ],
+  "similarity_nodes": 1033,
+  "similarity_edges": 65990,
+  "provenance": {
+    "human": 1008,
+    "db:ai-zymes": 1031,
+    "db:dizyme": 1210,
+    "db:nanozymedb": 596,
+    "db:nanozymenet-k": 1182
+  },
+  "lineage": {
+    "n_doi": 761,
+    "n_multi_source_doi": 388,
+    "n_cross_source_conflicts": 57,
+    "n_materials_excel_only": 21,
+    "n_materials_db_only": 1040
+  }
+}
