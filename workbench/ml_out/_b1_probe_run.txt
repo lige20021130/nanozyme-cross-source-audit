@@ -1,0 +1,113 @@
+﻿core rows=1060  multi rows=4022  multi dedup=2442
+
+[CORE(atlas)|no-sub|random-CV] n=1056 classes={'POD': 734, 'CAT': 61, 'OXD': 223, 'SOD': 38}
+  accuracy=0.816  macro-F1=0.673  majority-baseline=0.695
+    F1[CAT] = 0.500
+    F1[OXD] = 0.613
+    F1[POD] = 0.893
+    F1[SOD] = 0.686
+  confusion (rows=true):
+         CAT    OXD    POD    SOD
+   CAT     25      7     25      4
+   OXD      6    119     95      3
+   POD      5     34    694      1
+   SOD      3      5      6     24
+
+[CORE(atlas)|no-sub|DOI-grouped] n=1056 classes={'POD': 734, 'CAT': 61, 'OXD': 223, 'SOD': 38}
+  accuracy=0.672  macro-F1=0.350  majority-baseline=0.695
+    F1[CAT] = 0.152
+    F1[OXD] = 0.364
+    F1[POD] = 0.810
+    F1[SOD] = 0.074
+  confusion (rows=true):
+         CAT    OXD    POD    SOD
+   CAT      7     20     32      2
+   OXD     11     78    128      6
+   POD     12     93    623      6
+   SOD      1     14     21      2
+
+[CORE(atlas)|with-sub|random-CV] n=1056 classes={'POD': 734, 'CAT': 61, 'OXD': 223, 'SOD': 38}
+  accuracy=0.813  macro-F1=0.706  majority-baseline=0.695
+    F1[CAT] = 0.629
+    F1[OXD] = 0.641
+    F1[POD] = 0.879
+    F1[SOD] = 0.676
+  confusion (rows=true):
+         CAT    OXD    POD    SOD
+   CAT     33      0     26      2
+   OXD      0    131     89      3
+   POD     10     48    670      6
+   SOD      1      7      5     25
+
+[CORE(atlas)|with-sub|DOI-grouped] n=1056 classes={'POD': 734, 'CAT': 61, 'OXD': 223, 'SOD': 38}
+  accuracy=0.723  macro-F1=0.461  majority-baseline=0.695
+    F1[CAT] = 0.391
+    F1[OXD] = 0.459
+    F1[POD] = 0.832
+    F1[SOD] = 0.161
+  confusion (rows=true):
+         CAT    OXD    POD    SOD
+   CAT     18      1     42      0
+   OXD      0     92    120     11
+   POD     13     65    648      8
+   SOD      0     20     13      5
+
+[CORE+MULTI|no-sub|random-CV] n=3002 classes={'POD': 2351, 'CAT': 126, 'OXD': 438, 'SOD': 41, 'OTHER': 46}
+  accuracy=0.835  macro-F1=0.554  majority-baseline=0.783
+    F1[CAT] = 0.444
+    F1[OTHER] = 0.257
+    F1[OXD] = 0.505
+    F1[POD] = 0.909
+    F1[SOD] = 0.657
+  confusion (rows=true):
+         CAT  OTHER    OXD    POD    SOD
+   CAT     46      2      9     66      3
+  OTHER      3      9      6     28      0
+   OXD      6      5    177    249      1
+   POD     22      8     68   2253      0
+   SOD      4      0      3     12     22
+
+[CORE+MULTI|no-sub|DOI-grouped] n=3002 classes={'POD': 2351, 'CAT': 126, 'OXD': 438, 'SOD': 41, 'OTHER': 46}
+  accuracy=0.764  macro-F1=0.278  majority-baseline=0.783
+    F1[CAT] = 0.155
+    F1[OTHER] = 0.000
+    F1[OXD] = 0.288
+    F1[POD] = 0.877
+    F1[SOD] = 0.070
+  confusion (rows=true):
+         CAT  OTHER    OXD    POD    SOD
+   CAT     13      3     32     77      1
+  OTHER      2      0     10     34      0
+   OXD     14      7    111    299      7
+   POD     11      3    162   2169      6
+   SOD      2      0     19     18      2
+
+[CORE+MULTI|with-sub|random-CV] n=3002 classes={'POD': 2351, 'CAT': 126, 'OXD': 438, 'SOD': 41, 'OTHER': 46}
+  accuracy=0.840  macro-F1=0.619  majority-baseline=0.783
+    F1[CAT] = 0.480
+    F1[OTHER] = 0.430
+    F1[OXD] = 0.554
+    F1[POD] = 0.909
+    F1[SOD] = 0.722
+  confusion (rows=true):
+         CAT  OTHER    OXD    POD    SOD
+   CAT     49      1      2     74      0
+  OTHER      1     17     14     14      0
+   OXD      0     10    214    211      3
+   POD     28      5     99   2217      2
+   SOD      0      0      6      9     26
+
+[CORE+MULTI|with-sub|DOI-grouped] n=3002 classes={'POD': 2351, 'CAT': 126, 'OXD': 438, 'SOD': 41, 'OTHER': 46}
+  accuracy=0.783  macro-F1=0.356  majority-baseline=0.783
+    F1[CAT] = 0.266
+    F1[OTHER] = 0.000
+    F1[OXD] = 0.375
+    F1[POD] = 0.879
+    F1[SOD] = 0.262
+  confusion (rows=true):
+         CAT  OTHER    OXD    POD    SOD
+   CAT     23      0      1    101      1
+  OTHER      1      0     11     34      0
+   OXD      0      9    141    280      8
+   POD     23      5    141   2179      3
+   SOD      0      1     20     12      8
