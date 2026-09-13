@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.pdf
+*.tif
+*.tiff
+.DS_Store
+Thumbs.db
+submission_JCIM/
